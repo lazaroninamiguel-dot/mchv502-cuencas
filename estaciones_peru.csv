@@ -1,0 +1,975 @@
+codigo,nombre,pais,iso2,subregion,latitud,longitud,altitud_msnm,fecha_registro,tipo,mide_lluvia,transmision,provincia,distrito
+000261,Aramango,Peru,PE,Amazonas,-5.41994,-78.43553,508,2017-05-01,CO,Sí,Convencional – tiempo real,Bagua,Aramango
+472C57D4,Bagua,Peru,PE,Amazonas,-5.66145,-78.53403,397,2017-01-01,EAMA,Sí,Automática,Utcubamba,Bagua Grande
+000253,Bagua Chica,Peru,PE,Amazonas,-5.66148,-78.53396,397,2017-01-01,CP,Sí,Convencional – tiempo real,Utcubamba,Bagua Grande
+000375,Chachapoyas,Peru,PE,Amazonas,-6.2083,-77.86712,2442,2017-01-01,CO,Sí,Convencional – tiempo real,Chachapoyas,Chachapoyas
+000229,Chiriaco,Peru,PE,Amazonas,-5.16144,-78.28806,323,2018-04-01,CO,Sí,Convencional – tiempo diferido,Bagua,Imaza
+472B607A,Corral Quemado,Peru,PE,Amazonas,-5.75461,-78.69208,427,2021-06-01,EHA,No,Automática,Utcubamba,Cumba
+003332,El Palto,Peru,PE,Amazonas,-6.00039,-78.47097,1467,2021-03-01,CO,Sí,Convencional – tiempo diferido,Utcubamba,Lonya Grande
+152204,El Pintor,Peru,PE,Amazonas,-5.7562,-78.52286,533,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Utcubamba,Bagua Grande
+152206,Jamalca,Peru,PE,Amazonas,-5.8927,-78.2339,1173,2017-01-01,CO,Sí,Convencional – tiempo real,Utcubamba,Jamalca
+000272,Jazan,Peru,PE,Amazonas,-5.94485,-77.97569,1354,2019-01-01,CO,Sí,Convencional – tiempo real,Bongara,Jazan
+221501,Los Naranjos,Peru,PE,Amazonas,-5.75568,-78.43154,427,2017-01-01,HLG,No,Convencional – tiempo real,Utcubamba,Bagua Grande
+472B2370,Magunchal,Peru,PE,Amazonas,-5.88987,-78.18876,616,2020-02-01,EHA,No,Automática,Utcubamba,Jamalca
+221506,Magunchal,Peru,PE,Amazonas,-5.8898,-78.1886,632,2019-07-01,HLG,No,Convencional – tiempo diferido,Utcubamba,Jamalca
+152210,Magunchal,Peru,PE,Amazonas,-5.8904,-78.1891,632,2019-07-01,PLU,Sí,Convencional – tiempo diferido,Utcubamba,Jamalca
+220907,Naranjito,Peru,PE,Amazonas,-5.81968,-78.27598,500,2021-06-01,EHA,No,Automática,Utcubamba,Jamalca
+472B55E0,Puente Salinas Amojao,Peru,PE,Amazonas,-5.45096,-78.4894,381,2021-06-01,EHA,No,Automática,Bagua,Aramango
+000256,Santa Maria De Nieva,Peru,PE,Amazonas,-4.83039,-77.93928,225,2020-01-01,CO,Sí,Convencional – tiempo real,Condorcanqui,Nieva
+000669,Andahuaylas,Peru,PE,Apurímac,-13.64863,-73.36679,2981,2017-01-01,CO,Sí,Convencional – tiempo real,Andahuaylas,San Jeronimo
+114117,Aymaraes,Peru,PE,Apurímac,-14.29056,-73.25168,2964,2017-01-01,CO,Sí,Convencional – tiempo real,Aymaraes,Chalhuanca
+472A1410,Casaccancha,Peru,PE,Apurímac,-13.98923,-72.29832,4033,2020-05-01,EMA,Sí,Automática,Cotabambas,Tambobamba
+156224,Cunyac,Peru,PE,Apurímac,-13.56334,-72.57594,1854,2019-03-01,PLU,Sí,Convencional – tiempo diferido,Abancay,Curahuasi
+000677,Curahuasi,Peru,PE,Apurímac,-13.55253,-72.73487,2741,2017-01-01,CP,Sí,Convencional – tiempo real,Abancay,Curahuasi
+113253,Curahuasi,Peru,PE,Apurímac,-13.5526,-72.7349,2741,2023-06-01,EMA,Sí,Automática,Abancay,Huanipaca
+114108,Curpahuasi,Peru,PE,Apurímac,-14.0628,-72.6669,3535,2017-01-01,CO,Sí,Convencional – tiempo real,Grau,Curpahuasi
+47263360,Granja San Antonio,Peru,PE,Apurímac,-13.60492,-72.85693,2780,2021-06-01,EAMA,Sí,Automática,Abancay,Tamburco
+113235,Granja San Antonio,Peru,PE,Apurímac,-13.6049,-72.8569,2772,2017-01-01,MAP,Sí,Convencional – tiempo real,Abancay,Tamburco
+156217,Pampas,Peru,PE,Apurímac,-13.43488,-73.82427,2021,2017-05-01,CO,Sí,Convencional – tiempo real,Chincheros,Huaccana
+230503,Puente Cunyac,Peru,PE,Apurímac,-13.563,-72.5752,1854,2017-06-01,HLM,No,Convencional – tiempo real,Anta,Mollepata
+000811,Tambobamba,Peru,PE,Apurímac,-13.94492,-72.17522,3279,2017-01-01,CO,Sí,Convencional – tiempo real,Cotabambas,Tambobamba
+113246,Tancayllo,Peru,PE,Apurímac,-13.63523,-73.69004,3311,2021-06-01,EMA,Sí,Automática,Chincheros,Uranmarca
+157310,Andagua,Peru,PE,Arequipa,-15.5009,-72.3551,3562,2018-05-01,CO,Sí,Convencional – tiempo real,Castilla,Andagua
+000833,Aplao,Peru,PE,Arequipa,-16.07288,-72.49226,618,2017-01-01,CO,Sí,Convencional – tiempo real,Castilla,Aplao
+116085,Arequipa Uv,Peru,PE,Arequipa,-16.4042,-71.55155,2306,2024-03-01,EMA,Sí,Automática,Arequipa,Arequipa
+157313,Ayo,Peru,PE,Arequipa,-15.6833,-72.2704,1947,2021-05-01,CO,Sí,Convencional – tiempo diferido,Castilla,Ayo
+47E26242,Boyadero,Peru,PE,Arequipa,-16.58989,-72.00886,994,2021-06-01,EHA,No,Automática,Arequipa,Vitor
+000795,Cabanaconde,Peru,PE,Arequipa,-15.6226,-71.97409,3333,2017-01-01,CO,Sí,Convencional – tiempo real,Caylloma,Cabanaconde
+000832,Camana,Peru,PE,Arequipa,-16.64395,-72.70432,10,2017-01-01,CO,Sí,Convencional – tiempo real,Camana,Samuel Pastor
+000746,Caraveli,Peru,PE,Arequipa,-15.77568,-73.36259,1755,2017-01-01,CO,Sí,Convencional – tiempo real,Caraveli,Caraveli
+000753,Caylloma,Peru,PE,Arequipa,-15.18882,-71.77019,4327,2017-01-01,CO,Sí,Convencional – tiempo real,Caylloma,Caylloma
+116083,Cayma,Peru,PE,Arequipa,-16.31689,-71.52919,2809,2023-11-01,EMA,Sí,Automática,Arequipa,Cayma
+157312,Chachas,Peru,PE,Arequipa,-15.5025,-72.2686,3065,2021-05-01,CO,Sí,Convencional – tiempo diferido,Castilla,Chachas
+000741,Chaparra,Peru,PE,Arequipa,-15.74765,-73.87089,1033,2017-01-01,CO,Sí,Convencional – tiempo real,Caraveli,Chaparra
+472147C4,Charcani,Peru,PE,Arequipa,-16.31086,-71.49511,2658,2021-06-01,EHA,No,Automática,Arequipa,Cayma
+204710,Charcani,Peru,PE,Arequipa,-16.3109,-71.4949,2659,2021-05-01,HLM,No,Convencional – tiempo diferido,Arequipa,Cayma
+157300,Chichas,Peru,PE,Arequipa,-15.54811,-72.91831,2161,2021-05-01,CO,Sí,Convencional – tiempo diferido,Condesuyos,Chichas
+000847,Chiguata,Peru,PE,Arequipa,-16.40644,-71.40913,2902,2017-04-01,CO,Sí,Convencional – tiempo real,Arequipa,Chiguata
+116077,Chiguata,Peru,PE,Arequipa,-16.40645,-71.40914,2885,2022-12-01,PLU,Sí,Automática,Arequipa,Chiguata
+000758,Chivay,Peru,PE,Arequipa,-15.64163,-71.60169,3644,2017-01-01,CO,Sí,Convencional – tiempo real,Caylloma,Chivay
+4723D752,Chivay,Peru,PE,Arequipa,-15.64163,-71.60169,3644,2017-01-01,EAMA,Sí,Automática,Caylloma,Chivay
+157314,Choco,Peru,PE,Arequipa,-15.5771,-72.1296,2432,2018-05-01,CO,Sí,Convencional – tiempo real,Castilla,Choco
+000750,Chuquibamba,Peru,PE,Arequipa,-15.84602,-72.65065,2859,2017-01-01,CO,Sí,Convencional – tiempo real,Condesuyos,Chuquibamba
+115150,Coropuna,Peru,PE,Arequipa,-15.53597,-72.61056,5800,2021-03-01,EMA,Sí,Automática,Condesuyos,Salamanca
+47E8A60E,Cotacota,Peru,PE,Arequipa,-15.21331,-71.38955,4240,2021-06-01,EMA,Sí,Automática,Caylloma,Tisco
+000749,Cotahuasi,Peru,PE,Arequipa,-15.21134,-72.89325,2683,2017-01-01,CO,Sí,Convencional – tiempo real,La Union,Cotahuasi
+47280292,Cotahuasi,Peru,PE,Arequipa,-15.21134,-72.89331,2683,2021-06-01,EAMA,Sí,Automática,La Union,Cotahuasi
+115151,Cuyau,Peru,PE,Arequipa,-15.21794,-72.93564,2222,2020-02-01,EHA,No,Automática,La Union,Cotahuasi
+204506,Cuyau,Peru,PE,Arequipa,-15.2182,-72.9359,2222,2018-03-01,HLM,No,Convencional – tiempo diferido,La Union,Cotahuasi
+000849,El Frayle,Peru,PE,Arequipa,-16.15482,-71.1891,4131,2021-05-01,CO,Sí,Convencional – tiempo diferido,Arequipa,San Juan De Tarucani
+204621,Hacienda Pampata,Peru,PE,Arequipa,-16.54193,-72.69957,73,2017-06-01,HLG,No,Convencional – tiempo real,Camana,Nicolas De Pierola
+157315,Huambo,Peru,PE,Arequipa,-15.73201,-72.10693,3312,2017-09-01,CO,Sí,Convencional – tiempo real,Caylloma,Huambo
+008203,Huanca,Peru,PE,Arequipa,-16.03458,-71.88108,3065,2017-01-01,CO,Sí,Convencional – tiempo real,Caylloma,Huanca
+47E3A5A6,Huanca,Peru,PE,Arequipa,-16.03458,-71.88108,3065,2021-06-01,EMA,Sí,Automática,Caylloma,Huanca
+000799,Huasacache,Peru,PE,Arequipa,-16.45774,-71.56635,2200,2017-01-01,CO,Sí,Convencional – tiempo real,Arequipa,Jacobo Hunter
+204617,Huatiapa,Peru,PE,Arequipa,-16.00806,-72.48355,689,2017-01-01,HLG,No,Convencional – tiempo real,Castilla,Aplao
+000765,Imata,Peru,PE,Arequipa,-15.84266,-71.09062,4475,2017-01-01,CO,Sí,Convencional – tiempo real,Caylloma,San Antonio De Chuca
+47E3834A,Imata,Peru,PE,Arequipa,-15.84266,-71.09062,4475,2021-06-01,EMA,Sí,Automática,Caylloma,San Antonio De Chuca
+000838,La Haciendita,Peru,PE,Arequipa,-16.9986,-71.6008,267,2021-05-01,CO,Sí,Convencional – tiempo diferido,Islay,Cocachacra
+000804,La Joya,Peru,PE,Arequipa,-16.58359,-71.92464,1278,2017-01-01,MAP,Sí,Convencional – tiempo real,Arequipa,Vitor
+000839,La Pampilla,Peru,PE,Arequipa,-16.4138,-71.53453,2326,2017-01-01,MAP,Sí,Convencional – tiempo real,Arequipa,Arequipa
+204905,La Pascana,Peru,PE,Arequipa,-16.99936,-71.63879,222,2018-04-01,HLG,No,Convencional – tiempo real,Islay,Cocachacra
+158209,Las Salinas,Peru,PE,Arequipa,-16.3206,-71.1521,4349,2021-02-01,CO,Sí,Convencional – tiempo diferido,Arequipa,San Juan De Tarucani
+115133,Lomas,Peru,PE,Arequipa,-15.57119,-74.8503,19,2018-09-01,CO,Sí,Convencional – tiempo real,Caraveli,Lomas
+007308,Machahuay,Peru,PE,Arequipa,-15.65321,-72.50322,3093,2017-01-01,CO,Sí,Convencional – tiempo real,Castilla,Machaguay
+157317,Madrigal,Peru,PE,Arequipa,-15.60999,-71.80654,3276,2021-05-01,CO,Sí,Convencional – tiempo diferido,Caylloma,Madrigal
+472D23BE,Ocoña,Peru,PE,Arequipa,-16.427,-73.1145,23,2021-06-01,EHMA,Sí,Automática,Camana,Ocoña
+204504,Ocoña,Peru,PE,Arequipa,-16.427,-73.1145,15,2017-07-01,HLG,No,Convencional – tiempo real,Camana,Ocoña
+157311,Orcopampa,Peru,PE,Arequipa,-15.2639,-72.341,3812,2017-01-01,CO,Sí,Convencional – tiempo real,Castilla,Orcopampa
+000837,Pampa Blanca,Peru,PE,Arequipa,-17.0716,-71.7245,108,2017-01-01,CP,Sí,Convencional – tiempo real,Islay,Cocachacra
+117061,Pampa Blanca,Peru,PE,Arequipa,-17.07161,-71.72453,108,2025-01-01,EMA,Sí,Automática,Islay,Cocachacra
+158204,Pampa De Arrieros,Peru,PE,Arequipa,-16.0665,-71.5914,3701,2021-05-01,CO,Sí,Convencional – tiempo diferido,Arequipa,Yura
+4729E39A,Pampa De Majes,Peru,PE,Arequipa,-16.33565,-72.15266,1498,2021-06-01,EMA,Sí,Automática,Caylloma,Majes
+000805,Pampa De Majes,Peru,PE,Arequipa,-16.3357,-72.1525,1503,2017-01-01,MAP,Sí,Convencional – tiempo real,Caylloma,Majes
+000751,Pampacolca,Peru,PE,Arequipa,-15.7167,-72.5683,2885,2017-01-01,CO,Sí,Convencional – tiempo real,Castilla,Pampacolca
+47E360B8,Patahuasi,Peru,PE,Arequipa,-16.05542,-71.41481,4035,2021-06-01,EMA,Sí,Automática,Arequipa,Yanahuara
+116073,Patahuasi-Arequipa,Peru,PE,Arequipa,-16.05542,-71.41481,4026,2017-03-01,CO,Sí,Convencional – tiempo diferido,Arequipa,Yura
+158208,Pillones,Peru,PE,Arequipa,-15.98124,-71.2167,4432,2021-04-01,CO,Sí,Convencional – tiempo diferido,Caylloma,San Antonio De Chuca
+47E373CE,Pillones,Peru,PE,Arequipa,-15.97861,-71.21333,4455,2021-06-01,EMA,Sí,Automática,Caylloma,San Antonio De Chuca
+157329,Porpera,Peru,PE,Arequipa,-15.3142,-71.3064,4396,2021-05-01,CO,Sí,Convencional – tiempo diferido,Caylloma,Tisco
+204604,Puente Colgante-Sibayo,Peru,PE,Arequipa,-15.4942,-71.4637,3810,2017-03-01,HLG,No,Convencional – tiempo diferido,Caylloma,Sibayo
+4722E032,Puente Del Diablo,Peru,PE,Arequipa,-16.42665,-71.67507,1961,2021-03-01,EHA,No,Automática,Arequipa,Uchumayo
+204707,Puente Del Diablo,Peru,PE,Arequipa,-16.42679,-71.67503,1983,2017-01-01,HLG,No,Convencional – tiempo real,Arequipa,Socabaya
+157309,Pullhuay (Ayahuasi),Peru,PE,Arequipa,-15.1459,-72.7439,3394,2021-05-01,CO,Sí,Convencional – tiempo diferido,La Union,Alca
+000830,Punta Atico,Peru,PE,Arequipa,-16.23174,-73.69638,30,2017-01-01,CO,Sí,Convencional – tiempo real,Caraveli,Atico
+157307,Puyca,Peru,PE,Arequipa,-15.06055,-72.69262,3661,2021-05-01,CO,Sí,Convencional – tiempo diferido,La Union,Puyca
+000801,Salamanca,Peru,PE,Arequipa,-15.50294,-72.83202,3203,2017-06-01,CO,Sí,Convencional – tiempo real,Condesuyos,Salamanca
+204501,Salamanca,Peru,PE,Arequipa,-15.5033,-72.8318,3215,2021-05-01,HLM,No,Convencional – tiempo diferido,Condesuyos,Salamanca
+116082,San Francisco,Peru,PE,Arequipa,-16.38519,-71.49044,2734,2023-11-01,EMA,Sí,Automática,Arequipa,Miraflores
+47E3B6D0,San Jose De Uzuna,Peru,PE,Arequipa,-16.58103,-71.32836,3269,2021-06-01,EMA,Sí,Automática,Arequipa,Polobaya
+000755,Sibayo,Peru,PE,Arequipa,-15.4892,-71.45696,3816,2017-01-01,CO,Sí,Convencional – tiempo real,Caylloma,Sibayo
+47265686,Sibayo,Peru,PE,Arequipa,-15.49422,-71.4638,3902,2019-01-01,EHA,No,Automática,Caylloma,Sibayo
+47E27134,Socosani,Peru,PE,Arequipa,-16.25944,-71.72056,2325,2021-06-01,EHA,No,Automática,Arequipa,Yura
+472ED434,Sumbay,Peru,PE,Arequipa,-15.81667,-71.11667,4403,2021-06-01,EHA,No,Automática,Caylloma,San Antonio De Chuca
+204702,Sumbay,Peru,PE,Arequipa,-15.8412,-71.1146,4445,2021-05-01,HLG,No,Convencional – tiempo diferido,Caylloma,San Antonio De Chuca
+472EE1AE,Tingo Grande,Peru,PE,Arequipa,-16.45992,-71.57431,2196,2021-06-01,EHA,No,Automática,Arequipa,Jacobo Hunter
+204708,Tingo Grande,Peru,PE,Arequipa,-16.45992,-71.57431,2167,2018-02-01,HLG,No,Convencional – tiempo real,Arequipa,Jacobo Hunter
+157325,Tisco,Peru,PE,Arequipa,-15.34577,-71.44702,4195,2021-05-01,CO,Sí,Convencional – tiempo diferido,Caylloma,Tisco
+116078,Tuctumpaya,Peru,PE,Arequipa,-16.48827,-71.33463,3368,2022-12-01,PLU,Sí,Automática,Arequipa,Pocsi
+114119,Visca Visca,Peru,PE,Arequipa,-14.7228,-71.9787,4247,2020-11-01,EMA,Sí,Automática,Condesuyos,Cayarani
+000864,Yanaquihua,Peru,PE,Arequipa,-15.77649,-72.87584,3007,2021-05-01,CO,Sí,Convencional – tiempo diferido,Condesuyos,Yanaquihua
+116081,Yura,Peru,PE,Arequipa,-16.30271,-71.62395,2662,2023-04-01,PLU,Sí,Automática,Arequipa,Yura
+114122,Ccontacc,Peru,PE,Ayacucho,-14.5423,-74.2642,3615,2018-11-01,EMA,Sí,Automática,Lucanas,Lucanas
+156212,Chilcayoc,Peru,PE,Ayacucho,-13.883,-73.7268,3395,2020-10-01,CO,Sí,Convencional – tiempo diferido,Sucre,Chilcayoc
+000743,Coracora,Peru,PE,Ayacucho,-15.01194,-73.77945,3149,2017-01-01,CO,Sí,Convencional – tiempo real,Parinacochas,Coracora
+151602,Huac-Huas,Peru,PE,Ayacucho,-14.1324,-74.941,3180,2017-01-01,CO,Sí,Convencional – tiempo real,Lucanas,Huac-Huas
+47290068,Huac-Huas,Peru,PE,Ayacucho,-14.12861,-74.94583,3080,2017-05-01,EMA,Sí,Automática,Lucanas,Huac-Huas
+000665,Huancapi,Peru,PE,Ayacucho,-13.749,-74.0681,3117,2017-01-01,CO,Sí,Convencional – tiempo real,Victor Fajardo,Huancapi
+156218,Huancasancos,Peru,PE,Ayacucho,-13.91694,-74.33361,3440,2020-08-01,CO,Sí,Convencional – tiempo diferido,Huanca Sancos,Sancos
+000660,Huanta,Peru,PE,Ayacucho,-12.9113,-74.2832,2485,2020-12-01,CO,Sí,Convencional – tiempo diferido,Huanta,Luricocha
+230705,Huasapampa,Peru,PE,Ayacucho,-14.26667,-73.95,2900,2018-10-01,HLG,No,Convencional – tiempo diferido,Lucanas,Aucara
+114121,Huray Huma,Peru,PE,Ayacucho,-14.564,-73.5558,4203,2021-06-01,EMA,Sí,Automática,Parinacochas,Coracora
+000663,La Quinua,Peru,PE,Ayacucho,-13.05548,-74.14159,3215,2017-01-01,CO,Sí,Convencional – tiempo real,Huamanga,Quinua
+157223,Lampa,Peru,PE,Ayacucho,-15.18468,-73.34786,2797,2021-01-01,PLU,Sí,Convencional – tiempo diferido,Paucar Del Sara Sara,Lampa
+213600,Llauta,Peru,PE,Ayacucho,-14.23998,-74.92135,2615,2017-01-01,HLG,No,Convencional – tiempo real,Lucanas,Llauta
+157200,Llauta,Peru,PE,Ayacucho,-14.2466,-74.9255,2569,2020-11-01,PLU,Sí,Convencional – tiempo diferido,Lucanas,Llauta
+157206,Lucanas,Peru,PE,Ayacucho,-14.6204,-74.2328,3350,2020-07-01,PLU,Sí,Convencional – tiempo diferido,Lucanas,Lucanas
+251001,Marcelino Serna (Pampas),Peru,PE,Ayacucho,-13.43453,-73.82791,1966,2017-05-01,HLG,No,Convencional – tiempo real,Huamanga,Ocros
+4729D600,Pampa Cangallo,Peru,PE,Ayacucho,-13.56184,-74.19889,3315,2021-06-01,EMA,Sí,Automática,Cangallo,Los Morochucos
+114127,Pampa Galeras,Peru,PE,Ayacucho,-14.66917,-74.40361,3998,2021-06-01,EMA,Sí,Automática,Lucanas,Lucanas
+000792,Paucaray,Peru,PE,Ayacucho,-14.0439,-73.6386,3232,2017-01-01,CO,Sí,Convencional – tiempo real,Sucre,Santiago De Paucaray
+000745,Pauza,Peru,PE,Ayacucho,-15.2753,-73.3411,2489,2017-01-01,CO,Sí,Convencional – tiempo real,Paucar Del Sara Sara,Pausa
+115155,Pauza,Peru,PE,Ayacucho,-15.275,-73.34083,2489,2025-08-01,PE,Depende,Automática,Paucar Del Sara Sara,Pausa
+250900,Puente Pampas Gore Apu,Peru,PE,Ayacucho,-13.43493,-73.82737,1985,2021-06-01,EHA,No,Automática,Chincheros,Huaccana
+000736,Puquio,Peru,PE,Ayacucho,-14.69928,-74.1316,3176,2017-01-01,CO,Sí,Convencional – tiempo real,Lucanas,Puquio
+006205,San Pedro De Cachi,Peru,PE,Ayacucho,-13.08742,-74.39067,3247,2017-01-01,CO,Sí,Convencional – tiempo real,Huamanga,Santiago De Pischa
+113248,Santa Cruz De Hospicio,Peru,PE,Ayacucho,-13.4383,-74.7993,4273,2021-06-01,EAMA,Sí,Automática,Cangallo,Paras
+156211,Vilcashuaman,Peru,PE,Ayacucho,-13.66882,-73.95238,3518,2017-01-01,CO,Sí,Convencional – tiempo real,Vilcas Huaman,Vilcas Huaman
+000664,Wayllapampa,Peru,PE,Ayacucho,-13.0765,-74.21651,2470,2017-01-01,CO,Sí,Convencional – tiempo real,Huamanga,Pacaycasa
+000393,Asuncion,Peru,PE,Cajamarca,-7.32604,-78.51582,2270,2017-01-01,CO,Sí,Convencional – tiempo real,Cajamarca,Asuncion
+000304,Augusto Weberbauer,Peru,PE,Cajamarca,-7.1675,-78.49309,2673,2017-01-01,MAP,Sí,Convencional – tiempo real,Cajamarca,Cajamarca
+000316,Aylambo,Peru,PE,Cajamarca,-7.19345,-78.51012,2908,2020-02-01,PE,Depende,Convencional – tiempo diferido,Cajamarca,Cajamarca
+472501F4,Balsas,Peru,PE,Cajamarca,-6.84461,-78.03025,871,2021-06-01,EHMA,Sí,Automática,Celendin,Utco
+221303,Balzas,Peru,PE,Cajamarca,-6.84465,-78.03024,847,2017-01-01,HLM,No,Convencional – tiempo real,Celendin,Utco
+000362,Bambamarca,Peru,PE,Cajamarca,-6.67655,-78.51834,2495,2017-01-01,CP,Sí,Convencional – tiempo real,Hualgayoc,Bambamarca
+4726D092,Bambamarca H,Peru,PE,Cajamarca,-6.66975,-78.54119,2635,2021-06-01,EHA,No,Automática,Hualgayoc,Bambamarca
+472680EE,Bambamarca M,Peru,PE,Cajamarca,-6.67981,-78.52346,2582,2021-06-01,EMA,Sí,Automática,Hualgayoc,Bambamarca
+220405,Cacao,Peru,PE,Cajamarca,-5.8837,-78.9625,923,2021-02-01,HLM,No,Convencional – tiempo diferido,Jaen,Colasay
+153223,Cachachi,Peru,PE,Cajamarca,-7.45106,-78.26855,3228,2018-10-01,PE,Depende,Convencional – tiempo real,Cajabamba,Cachachi
+000373,Cajabamba,Peru,PE,Cajamarca,-7.62166,-78.05131,2625,2017-01-01,CO,Sí,Convencional – tiempo real,Cajabamba,Cajabamba
+4729F0EC,Cajabamba,Peru,PE,Cajamarca,-7.62167,-78.05111,2626,2020-09-01,EMA,Sí,Automática,Cajabamba,Cajabamba
+472C92CA,Cascabamba,Peru,PE,Cajamarca,-7.38407,-78.72682,3381,2021-06-01,EMA,Sí,Automática,Contumaza,Contumaza
+201301,Cascabamba,Peru,PE,Cajamarca,-7.38332,-78.73377,3331,2021-05-01,HLM,No,Convencional – tiempo diferido,Contumaza,Contumaza
+47E1C5B4,Cañad,Peru,PE,Cajamarca,-6.64934,-78.99733,1213,2021-06-01,EHMA,Sí,Automática,Santa Cruz,Catache
+000371,Celendin,Peru,PE,Cajamarca,-6.85292,-78.14485,2602,2017-01-01,CO,Sí,Convencional – tiempo real,Celendin,Celendin
+4726631C,Celendin,Peru,PE,Cajamarca,-6.85303,-78.14487,2607,2021-06-01,EMA,Sí,Automática,Celendin,Celendin
+000395,Chancay Baños,Peru,PE,Cajamarca,-6.575,-78.86722,1638,2021-04-01,CO,Sí,Convencional – tiempo diferido,Santa Cruz,Chancaybaños
+47E3055E,Chancay Baños,Peru,PE,Cajamarca,-6.57489,-78.86721,1639,2021-06-01,EMA,Sí,Automática,Santa Cruz,Chancaybaños
+153203,Chilete,Peru,PE,Cajamarca,-7.21968,-78.83799,848,2018-10-01,PLU,Sí,Convencional – tiempo real,Contumaza,Chilete
+000260,Chirinos,Peru,PE,Cajamarca,-5.3085,-78.89759,1772,2018-02-01,CO,Sí,Convencional – tiempo real,San Ignacio,Chirinos
+000250,Chontali,Peru,PE,Cajamarca,-5.64389,-79.09,1627,2020-02-01,CO,Sí,Convencional – tiempo real,Jaen,Chontali
+000303,Chota,Peru,PE,Cajamarca,-6.54713,-78.64863,2468,2017-01-01,CO,Sí,Convencional – tiempo real,Chota,Chota
+4726C3E4,Chota,Peru,PE,Cajamarca,-6.55405,-78.67588,2261,2021-06-01,EMA,Sí,Automática,Chota,Chota
+220611,Chotano Lajas,Peru,PE,Cajamarca,-6.55972,-78.74111,2148,2018-02-01,HLG,No,Convencional – tiempo real,Chota,Lajas
+153235,Chotano Lajas,Peru,PE,Cajamarca,-6.5622,-78.7389,2163,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Chota,Lajas
+4727F484,Chugur,Peru,PE,Cajamarca,-6.66878,-78.738,2748,2021-06-01,EMA,Sí,Automática,Hualgayoc,Chugur
+153208,Chugur,Peru,PE,Cajamarca,-6.66878,-78.738,2748,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Hualgayoc,Chugur
+4724D566,Cirato,Peru,PE,Cajamarca,-6.65583,-79.07384,964,2021-05-01,EHMA,Sí,Automática,Santa Cruz,Catache
+106122,Cirato,Peru,PE,Cajamarca,-6.65579,-79.07395,964,2021-05-01,HLG,No,Convencional – tiempo diferido,Santa Cruz,Catache
+000353,Cochabamba,Peru,PE,Cajamarca,-6.46009,-78.8886,1653,2018-02-01,CO,Sí,Convencional – tiempo real,Chota,Cochabamba
+220814,Cochalan,Peru,PE,Cajamarca,-5.4651,-78.9885,729,2021-05-01,HLG,No,Convencional – tiempo diferido,San Ignacio,La Coipa
+152212,Cochalan,Peru,PE,Cajamarca,-5.4654,-78.9888,731,2021-05-01,PLU,Sí,Convencional – tiempo diferido,San Ignacio,La Coipa
+000354,Contumaza,Peru,PE,Cajamarca,-7.36521,-78.82273,2542,2017-01-01,CO,Sí,Convencional – tiempo real,Contumaza,Contumaza
+003216,Cospan,Peru,PE,Cajamarca,-7.42857,-78.54106,2423,2017-06-01,CO,Sí,Convencional – tiempo real,Cajamarca,Cospan
+472A32FC,Crisnejas,Peru,PE,Cajamarca,-7.4639,-78.1131,1992,2021-06-01,EHA,No,Automática,Cajabamba,Condebamba
+472B3006,Cumba,Peru,PE,Cajamarca,-5.94135,-78.66413,449,2021-06-01,EHA,No,Automática,Cutervo,Toribio Casanova
+000352,Cutervo,Peru,PE,Cajamarca,-6.37964,-78.80512,2668,2017-01-01,CO,Sí,Convencional – tiempo real,Cutervo,Cutervo
+4726A602,Cutervo,Peru,PE,Cajamarca,-6.37914,-78.81339,2622,2021-06-01,EMA,Sí,Automática,Cutervo,Cutervo
+000241,El Limon,Peru,PE,Cajamarca,-5.91778,-79.31722,1110,2021-04-01,CO,Sí,Convencional – tiempo diferido,Jaen,Pomahuaca
+000359,Granja Porcon,Peru,PE,Cajamarca,-7.03753,-78.6334,3149,2017-01-01,CO,Sí,Convencional – tiempo real,Cajamarca,Cajamarca
+472C81BC,Guzmango,Peru,PE,Cajamarca,-7.38133,-78.9033,2471,2021-01-01,EMA,Sí,Automática,Contumaza,Guzmango
+153107,Hacienda Pucara,Peru,PE,Cajamarca,-6.04167,-79.13389,1012,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Jaen,Pucara
+472A571A,Huallape,Peru,PE,Cajamarca,-5.45077,-78.69579,409,2021-06-01,EHA,No,Automática,Jaen,Santa Rosa
+000343,Huambos,Peru,PE,Cajamarca,-6.45368,-78.96315,2258,2017-06-01,CP,Sí,Convencional – tiempo real,Chota,Huambos
+47E94706,Huambos,Peru,PE,Cajamarca,-6.45364,-78.96319,2258,2021-01-01,EMA,Sí,Automática,Chota,Huambos
+000252,Jaen,Peru,PE,Cajamarca,-5.67664,-78.77416,618,2017-01-01,CP,Sí,Convencional – tiempo real,Jaen,Jaen
+47269398,Jaen,Peru,PE,Cajamarca,-5.67667,-78.77418,618,2021-06-01,EMA,Sí,Automática,Jaen,Jaen
+000391,Jesus,Peru,PE,Cajamarca,-7.2457,-78.38841,2564,2017-01-01,CO,Sí,Convencional – tiempo real,Cajamarca,Jesus
+220205,Jesus Tunel,Peru,PE,Cajamarca,-7.22064,-78.40376,2568,2017-01-01,HLG,No,Convencional – tiempo real,Cajamarca,Jesus
+000349,La Cascarilla,Peru,PE,Cajamarca,-5.67175,-78.89767,1991,2020-02-01,CO,Sí,Convencional – tiempo real,Jaen,Jaen
+153331,La Encañada,Peru,PE,Cajamarca,-7.12327,-78.33314,2980,2017-01-01,CO,Sí,Convencional – tiempo real,Cajamarca,Encañada
+47E35522,La Muchala,Peru,PE,Cajamarca,-6.47998,-79.22406,1707,2021-06-01,EMA,Sí,Automática,Chota,San Juan De Licupis
+000318,La Victoria,Peru,PE,Cajamarca,-7.19119,-78.45947,2630,2020-02-01,PE,Depende,Convencional – tiempo diferido,Cajamarca,Llacanora
+153111,Lives,Peru,PE,Cajamarca,-7.0802,-79.04045,1931,2021-05-01,PLU,Sí,Convencional – tiempo diferido,San Miguel,Union Agua Blanca
+000341,Llama,Peru,PE,Cajamarca,-6.51443,-79.12262,2096,2018-02-01,CO,Sí,Convencional – tiempo real,Chota,Llama
+000388,Llapa,Peru,PE,Cajamarca,-6.97833,-78.81119,2951,2017-01-01,CO,Sí,Convencional – tiempo real,San Miguel,Llapa
+221106,Llaucano Corellama,Peru,PE,Cajamarca,-6.68656,-78.51823,2530,2017-01-01,HLG,No,Convencional – tiempo real,Hualgayoc,Bambamarca
+000392,Magdalena,Peru,PE,Cajamarca,-7.25346,-78.65261,1307,2017-01-01,CO,Sí,Convencional – tiempo real,Cajamarca,Magdalena
+220213,Mashcon,Peru,PE,Cajamarca,-7.165,-78.47833,2662,2017-01-01,HLG,No,Convencional – tiempo real,Cajamarca,Cajamarca
+000396,Montegrande,Peru,PE,Cajamarca,-7.22499,-79.15323,431,2020-12-01,CO,Sí,Convencional – tiempo diferido,Contumaza,Yonan
+000220,Namballe,Peru,PE,Cajamarca,-4.99953,-79.08862,722,2018-02-01,CO,Sí,Convencional – tiempo real,San Ignacio,Namballe
+000321,Namora,Peru,PE,Cajamarca,-7.2006,-78.32782,2760,2017-05-01,CO,Sí,Convencional – tiempo real,Cajamarca,Namora
+220206,Namora Bocatoma,Peru,PE,Cajamarca,-7.24262,-78.29472,2612,2017-01-01,HLG,No,Convencional – tiempo real,Cajamarca,Matara
+000305,Niepos,Peru,PE,Cajamarca,-6.92511,-79.12902,2424,2017-01-01,CO,Sí,Convencional – tiempo real,San Miguel,Niepos
+47E1E358,Puente Amban,Peru,PE,Cajamarca,-6.58271,-78.91262,1532,2021-06-01,EHMA,Sí,Automática,Santa Cruz,Chancaybaños
+4727470A,Puente Chilete,Peru,PE,Cajamarca,-7.21968,-78.83798,854,2020-06-01,EHMA,Sí,Automática,Contumaza,Chilete
+201207,Puente Chilete,Peru,PE,Cajamarca,-7.21969,-78.83799,848,2017-01-01,HLG,No,Convencional – tiempo real,Contumaza,Chilete
+220201,Puente Crisnejas,Peru,PE,Cajamarca,-7.46354,-78.11313,1988,2017-01-01,HLM,No,Convencional – tiempo real,Cajabamba,Condebamba
+221110,Puente Maygasbamba,Peru,PE,Cajamarca,-6.67411,-78.52437,2551,2021-05-01,HLG,No,Convencional – tiempo diferido,Hualgayoc,Bambamarca
+47E1D6C2,Puente San Carlos,Peru,PE,Cajamarca,-6.61515,-79.27136,334,2021-06-01,EHMA,Sí,Automática,Chota,Llama
+153108,Quebrada Shugar,Peru,PE,Cajamarca,-6.68778,-78.45694,3292,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Hualgayoc,Bambamarca
+000309,Quilcate,Peru,PE,Cajamarca,-6.82275,-78.744,3076,2017-07-01,CO,Sí,Convencional – tiempo real,San Miguel,Catilluc
+472210B6,Rio Grande,Peru,PE,Cajamarca,-7.09094,-78.52073,,2026-10-01,EHA,No,Automática,,
+002129,Sallique,Peru,PE,Cajamarca,-5.65886,-79.31264,1804,2020-02-01,CO,Sí,Convencional – tiempo real,Jaen,Sallique
+153201,San Benito,Peru,PE,Cajamarca,-7.42819,-78.92673,1317,2018-10-01,CO,Sí,Convencional – tiempo real,Contumaza,San Benito
+000242,San Ignacio,Peru,PE,Cajamarca,-5.14708,-78.99512,1243,2017-01-01,CO,Sí,Convencional – tiempo real,San Ignacio,San Ignacio
+4726706A,San Ignacio,Peru,PE,Cajamarca,-5.14422,-78.99989,1243,2017-01-01,EMA,Sí,Automática,San Ignacio,San Ignacio
+000369,San Juan,Peru,PE,Cajamarca,-7.29756,-78.49106,2253,2017-11-01,CO,Sí,Convencional – tiempo real,Cajamarca,San Juan
+000370,San Marcos,Peru,PE,Cajamarca,-7.32249,-78.1727,2287,2017-05-01,CO,Sí,Convencional – tiempo real,San Marcos,Pedro Galvez
+4725E206,San Marcos,Peru,PE,Cajamarca,-7.32249,-78.17269,2293,2021-02-01,EAMA,Sí,Automática,San Marcos,Pedro Galvez
+000308,San Miguel,Peru,PE,Cajamarca,-6.99684,-78.85308,2666,2017-01-01,CO,Sí,Convencional – tiempo real,San Miguel,San Miguel
+105142,San Miguel,Peru,PE,Cajamarca,-5.24006,-78.91138,1529,2026-10-01,EAMA,Sí,Convencional – tiempo diferido,San Ignacio,Chirinos
+000319,San Pablo,Peru,PE,Cajamarca,-7.11775,-78.83083,2325,2017-05-01,CO,Sí,Convencional – tiempo real,San Pablo,San Pablo
+000351,Santa Cruz,Peru,PE,Cajamarca,-6.61657,-78.94761,2002,2017-05-01,CO,Sí,Convencional – tiempo real,Santa Cruz,Santa Cruz
+105136,Sauzal,Peru,PE,Cajamarca,-5.77168,-79.39769,1257,2020-08-01,EHMA,Sí,Automática,Jaen,San Felipe
+000323,Sondor-Matara,Peru,PE,Cajamarca,-7.23687,-78.21262,2908,2017-01-01,CO,Sí,Convencional – tiempo real,San Marcos,Gregorio Pita
+000240,Tabaconas,Peru,PE,Cajamarca,-5.31515,-79.28488,1902,2018-06-01,CO,Sí,Convencional – tiempo real,San Ignacio,Tabaconas
+220812,Tabaconas,Peru,PE,Cajamarca,-5.32221,-79.28779,1787,2018-03-01,HLG,No,Convencional – tiempo diferido,San Ignacio,Tabaconas
+153103,Tocmoche,Peru,PE,Cajamarca,-6.4101,-79.3557,1399,2018-05-01,CO,Sí,Convencional – tiempo real,Chota,Tocmoche
+47E207A4,Tongod,Peru,PE,Cajamarca,-6.74456,-78.81392,2495,2020-11-01,EHMA,Sí,Automática,San Miguel,Tongod
+47E1F02E,Tunel Chotano,Peru,PE,Cajamarca,-6.54049,-78.78432,2018,2021-06-01,EHMA,Sí,Automática,Cutervo,Cutervo
+153110,Udima,Peru,PE,Cajamarca,-6.81474,-79.09377,2466,2018-02-01,CO,Sí,Convencional – tiempo real,Santa Cruz,Catache
+472645F0,Unc Cajamarca,Peru,PE,Cajamarca,-7.16747,-78.49307,2673,2021-06-01,EMA,Sí,Automática,Cajamarca,Cajamarca
+4726E508,Yonan Gore,Peru,PE,Cajamarca,-7.25592,-79.09909,457,2021-06-01,EHA,No,Automática,Contumaza,Yonan
+201204,Yonan Gore,Peru,PE,Cajamarca,-7.25592,-79.09908,457,2008-03-01,HLM,No,Convencional – tiempo diferido,Contumaza,Yonan
+4722A338,Acjanaco,Peru,PE,Cusco,-13.19672,-71.61941,3466,2021-06-01,EMA,Sí,Automática,Paucartambo,Kosñipata
+113252,Ancachuro,Peru,PE,Cusco,-13.4724,-72.2188,3324,2024-12-01,EMA,Sí,Automática,Anta,Zurite
+000684,Anta Ancachuro,Peru,PE,Cusco,-13.47242,-72.21876,3324,2017-01-01,CO,Sí,Convencional – tiempo real,Anta,Zurite
+113247,Ashanaku,Peru,PE,Cusco,-13.58048,-71.58878,3954,2021-06-01,EMA,Sí,Automática,Quispicanchi,Ccatca
+000809,Caicay,Peru,PE,Cusco,-13.59999,-71.69581,3117,2017-05-01,CO,Sí,Convencional – tiempo real,Paucartambo,Caicay
+472976F8,Calca,Peru,PE,Cusco,-13.33333,-71.95524,2921,2021-06-01,EMA,Sí,Automática,Calca,Calca
+000690,Ccatcca,Peru,PE,Cusco,-13.60988,-71.5601,3681,2017-01-01,CO,Sí,Convencional – tiempo real,Quispicanchi,Ccatca
+155518,Chacllabamba,Peru,PE,Cusco,-13.10855,-71.72,2699,2021-05-01,CO,Sí,Convencional – tiempo diferido,Paucartambo,Challabamba
+250301,Chacllabamba,Peru,PE,Cusco,-13.10677,-71.7203,2656,2017-11-01,HLM,No,Convencional – tiempo real,Paucartambo,Challabamba
+006670,Challabamba,Peru,PE,Cusco,-13.21754,-71.64938,2803,2017-01-01,CO,Sí,Convencional – tiempo real,Paucartambo,Challabamba
+472A9204,Chilca,Peru,PE,Cusco,-13.2235,-72.34056,2775,2021-02-01,EHA,No,Automática,Urubamba,Ollantaytambo
+006671,Chontachaca,Peru,PE,Cusco,-13.02389,-71.46778,872,2021-02-01,CO,Sí,Convencional – tiempo diferido,Paucartambo,Kosñipata
+156306,Colquepata,Peru,PE,Cusco,-13.36313,-71.67336,3696,2017-01-01,CO,Sí,Convencional – tiempo real,Paucartambo,Colquepata
+000607,Granja Kayra,Peru,PE,Cusco,-13.55675,-71.87517,3214,2017-01-01,MAP,Sí,Convencional – tiempo real,Cusco,San Jeronimo
+114124,Huayhuahuasi,Peru,PE,Cusco,-14.67242,-71.51991,3944,2021-06-01,EAMA,Sí,Automática,Espinar,Coporaque
+4727C11E,Huayllabamba,Peru,PE,Cusco,-13.26581,-72.44881,2995,2021-06-01,EMA,Sí,Automática,Urubamba,Machupicchu
+472935F2,Intihuatana H,Peru,PE,Cusco,-13.18517,-72.52319,1787,2021-07-01,EHA,No,Automática,Urubamba,Machupicchu
+472852EE,Intihuatana M,Peru,PE,Cusco,-13.17418,-72.56036,1778,2021-06-01,EMA,Sí,Automática,Urubamba,Machupicchu
+000679,Machu Picchu,Peru,PE,Cusco,-13.16655,-72.54585,2399,2017-01-01,CO,Sí,Convencional – tiempo real,Urubamba,Machupicchu
+472897F0,Machupicchu,Peru,PE,Cusco,-13.16655,-72.54585,2399,2021-06-01,EMA,Sí,Automática,Urubamba,Machupicchu
+114123,Marca Cunka,Peru,PE,Cusco,-14.49847,-72.08952,3796,2021-01-01,EMA,Sí,Automática,Chumbivilcas,Santo Tomas
+472A6280,Nuevo Pisac,Peru,PE,Cusco,-13.42264,-71.85388,2966,2021-06-01,EHMA,Sí,Automática,Calca,Pisac
+4729950A,Pacaymayo,Peru,PE,Cusco,-13.23419,-72.49841,3615,2021-06-01,EMA,Sí,Automática,Urubamba,Machupicchu
+000686,Paruro,Peru,PE,Cusco,-13.76698,-71.8447,3070,2017-01-01,CO,Sí,Convencional – tiempo real,Paruro,Paruro
+000689,Paucartambo,Peru,PE,Cusco,-13.30347,-71.59668,2931,2017-01-01,CO,Sí,Convencional – tiempo real,Paucartambo,Paucartambo
+250405,Paucartambo,Peru,PE,Cusco,-13.3177,-71.5974,2905,2017-01-01,HLG,No,Convencional – tiempo real,Paucartambo,Paucartambo
+114126,Payapunku,Peru,PE,Cusco,-14.4261,-71.28145,3982,2021-06-01,EMA,Sí,Automática,Canas,Langui
+47E880E2,Pichari,Peru,PE,Cusco,-12.52296,-73.83956,570,2021-06-01,EMA,Sí,Automática,La Convencion,Pichari
+000844,Pisac,Peru,PE,Cusco,-13.41951,-71.85087,2990,2017-01-01,CO,Sí,Convencional – tiempo real,Calca,Pisac
+250303,Pisac,Peru,PE,Cusco,-13.4226,-71.8539,2966,2017-01-01,HLM,No,Convencional – tiempo real,Calca,Pisac
+000812,Pomacanchi,Peru,PE,Cusco,-14.02781,-71.57258,3690,2017-01-01,CO,Sí,Convencional – tiempo real,Acomayo,Pomacanchi
+114132,Pomacanchi,Peru,PE,Cusco,-14.0278,-71.5726,3690,2024-12-01,EMA,Sí,Automática,Acomayo,Pomacanchi
+112264,Pongo De Mainique,Peru,PE,Cusco,-12.24986,-72.82447,479,2021-06-01,EMA,Sí,Automática,La Convencion,Echarate
+000654,Quebrada Yanatile,Peru,PE,Cusco,-12.6788,-72.2785,1183,2017-01-01,CO,Sí,Convencional – tiempo real,Calca,Yanatile
+000693,Quincemil,Peru,PE,Cusco,-13.22893,-70.7544,651,2017-05-01,CO,Sí,Convencional – tiempo real,Quispicanchi,Camanti
+113254,Quincemil,Peru,PE,Cusco,-13.2289,-70.7544,651,2024-12-01,EMA,Sí,Automática,Quispicanchi,Camanti
+472E025C,Quisoquepina,Peru,PE,Cusco,-13.79505,-70.88622,5157,2021-06-01,EMA,Sí,Automática,Canchis,Pitumarca
+114118,Salcca,Peru,PE,Cusco,-14.16991,-71.23186,3913,2021-05-01,EHA,No,Automática,Canchis,San Pablo
+250308,Salcca,Peru,PE,Cusco,-14.16963,-71.23172,3913,2017-11-01,HLM,No,Convencional – tiempo real,Canchis,San Pablo
+114131,Salcca,Peru,PE,Cusco,-14.16997,-71.23187,3913,2021-04-01,PE,Depende,Convencional – tiempo diferido,Canchis,San Pablo
+4729658E,San Pablo,Peru,PE,Cusco,-13.02506,-72.61988,1228,2021-06-01,EMA,Sí,Automática,La Convencion,Huayopata
+000752,Santo Tomas,Peru,PE,Cusco,-14.39878,-72.08774,3212,2017-01-01,CO,Sí,Convencional – tiempo real,Chumbivilcas,Santo Tomas
+4729A090,Santo Tomas,Peru,PE,Cusco,-14.44896,-72.09645,3671,2020-11-01,EMA,Sí,Automática,Chumbivilcas,Santo Tomas
+114125,Sausaya,Peru,PE,Cusco,-14.52931,-71.35831,3885,2021-06-01,EMA,Sí,Automática,Canas,Kunturkanki
+47E8B578,Sibinacocha,Peru,PE,Cusco,-13.92214,-71.01823,4880,2021-06-01,EMA,Sí,Automática,Canchis,Pitumarca
+000759,Sicuani,Peru,PE,Cusco,-14.23736,-71.2367,3534,2017-01-01,CO,Sí,Convencional – tiempo real,Canchis,Sicuani
+4726158C,Sicuani,Peru,PE,Cusco,-14.23736,-71.23669,3534,2021-06-01,EAMA,Sí,Automática,Canchis,Sicuani
+47294362,Soraypampa,Peru,PE,Cusco,-13.3955,-72.5736,3854,2021-04-01,EMA,Sí,Automática,Anta,Mollepata
+000683,Urubamba,Peru,PE,Cusco,-13.30517,-72.12455,2850,2017-01-01,CP,Sí,Convencional – tiempo real,Urubamba,Urubamba
+000659,Acobamba,Peru,PE,Huancavelica,-12.84361,-74.5616,3399,2017-01-01,MAP,Sí,Convencional – tiempo real,Acobamba,Acobamba
+000625,Acostambo,Peru,PE,Huancavelica,-12.36079,-75.05725,3603,2017-12-01,CO,Sí,Convencional – tiempo real,Tayacaja,Acostambo
+006640,Challaca,Peru,PE,Huancavelica,-13.79047,-75.38212,1800,2021-01-01,CO,Sí,Convencional – tiempo diferido,Huaytara,Santiago De Chocorvos
+47284198,Challaca,Peru,PE,Huancavelica,-13.7898,-75.417,,2026-10-01,EHMA,Sí,Automática,,
+213502,Challaca,Peru,PE,Huancavelica,-13.78333,-75.4,1934,2017-01-01,HLM,No,Convencional – tiempo real,Huaytara,Ayavi
+472811E4,Challaca M,Peru,PE,Huancavelica,-13.7905,-75.3821,1802,2020-10-01,EMA,Sí,Automática,Huaytara,Santiago De Chocorvos
+000009,Challaca Plu,Peru,PE,Huancavelica,-13.7896,-75.40029,1705,2021-01-01,PLU,Sí,Convencional – tiempo diferido,Huaytara,Santiago De Chocorvos
+156130,Choclococha,Peru,PE,Huancavelica,-13.1588,-75.07145,4547,2020-12-01,CO,Sí,Convencional – tiempo diferido,Castrovirreyna,Santa Ana
+112269,Cochabamba Grande,Peru,PE,Huancavelica,-12.19238,-74.51493,2681,2021-06-01,EMA,Sí,Automática,Tayacaja,Tintay Puncu
+4720CDF8,Cochamarca,Peru,PE,Huancavelica,-12.99,-75.51019,3886,2021-06-01,EAMA,Sí,Automática,Castrovirreyna,Aurahua
+006620,Colcabamba,Peru,PE,Huancavelica,-12.415,-74.6835,3019,2017-01-01,CO,Sí,Convencional – tiempo real,Tayacaja,Colcabamba
+4728F216,Cordova,Peru,PE,Huancavelica,-14.03333,-75.16667,3550,2021-03-01,EMA,Sí,Automática,Huaytara,Cordova
+157101,Cordova,Peru,PE,Huancavelica,-14.04061,-75.18698,3199,2021-01-01,PLU,Sí,Convencional – tiempo diferido,Huaytara,Cordova
+156121,Cusicancha,Peru,PE,Huancavelica,-13.50399,-75.29625,3263,2019-07-01,CO,Sí,Convencional – tiempo diferido,Huaytara,San Antonio De Cusicancha
+4728C78C,Cusicancha,Peru,PE,Huancavelica,-13.48333,-75.3,2680,2016-10-01,EMA,Sí,Automática,Huaytara,San Antonio De Cusicancha
+151503,Huachos,Peru,PE,Huancavelica,-13.2206,-75.53348,2736,2020-12-01,CO,Sí,Convencional – tiempo diferido,Castrovirreyna,Huachos
+47292684,Huachos,Peru,PE,Huancavelica,-13.21667,-75.53333,3025,2017-01-01,EMA,Sí,Automática,Castrovirreyna,Huachos
+156126,Huancalpi,Peru,PE,Huancavelica,-12.58029,-75.24179,3846,2021-04-01,CO,Sí,Convencional – tiempo diferido,Huancavelica,Vilca
+000649,Huancavelica,Peru,PE,Huancavelica,-12.7715,-75.0124,3717,2017-05-01,CO,Sí,Convencional – tiempo real,Huancavelica,Ascension
+472722EC,Huancavelica,Peru,PE,Huancavelica,-12.77163,-75.01237,3715,2021-06-01,EMA,Sí,Automática,Huancavelica,Ascension
+000657,Lircay,Peru,PE,Huancavelica,-12.9815,-74.7181,3303,2017-01-01,CO,Sí,Convencional – tiempo real,Angaraes,Lircay
+000508,Pampas,Peru,PE,Huancavelica,-12.40203,-74.88414,3250,2017-01-01,CO,Sí,Convencional – tiempo real,Tayacaja,Ahuaycha
+000658,Paucarbamba,Peru,PE,Huancavelica,-12.55573,-74.53592,3380,2021-01-01,CO,Sí,Convencional – tiempo diferido,Churcampa,Paucarbamba
+000648,Pilchaca,Peru,PE,Huancavelica,-12.39939,-75.08412,3586,2017-01-01,CO,Sí,Convencional – tiempo real,Huancavelica,Pilchaca
+006200,Salcabamba,Peru,PE,Huancavelica,-12.204,-74.7794,3005,2017-01-01,CO,Sí,Convencional – tiempo real,Tayacaja,Salcabamba
+156114,San Juan De Castrovirreyna,Peru,PE,Huancavelica,-13.21198,-75.62758,1856,2020-11-01,CO,Sí,Convencional – tiempo diferido,Castrovirreyna,San Juan
+156123,Santiago De Chocorvos,Peru,PE,Huancavelica,-13.83308,-75.25083,2700,2020-12-01,CO,Sí,Convencional – tiempo diferido,Huaytara,Santiago De Chocorvos
+4729131E,Santiago De Chocorvos,Peru,PE,Huancavelica,-13.83333,-75.25,3240,2016-07-01,EMA,Sí,Automática,Huaytara,Santiago De Chocorvos
+156122,Tambo,Peru,PE,Huancavelica,-13.69163,-75.27418,3145,2019-04-01,CO,Sí,Convencional – tiempo diferido,Huaytara,Tambo
+000647,Tunel Cero,Peru,PE,Huancavelica,-13.25932,-75.08596,4512,2020-12-01,CO,Sí,Convencional – tiempo diferido,Huaytara,Pilpichaca
+000474,Aucayacu,Peru,PE,Huánuco,-8.92987,-76.11171,586,2017-01-01,CO,Sí,Convencional – tiempo real,Leoncio Prado,Jose Crespo Y Castillo
+47E845FC,Cachicoto,Peru,PE,Huánuco,-9.21931,-76.21294,768,2021-06-01,EMA,Sí,Automática,Huamalies,Monzon
+000457,Canchan,Peru,PE,Huánuco,-9.92095,-76.30962,1986,2017-01-01,CO,Sí,Convencional – tiempo real,Huanuco,Huanuco
+000454,Carpish,Peru,PE,Huánuco,-9.70568,-76.09424,2540,2018-11-01,CO,Sí,Convencional – tiempo real,Huanuco,Chinchao
+000455,Chaglla,Peru,PE,Huánuco,-9.85008,-75.90706,3032,2017-01-01,CO,Sí,Convencional – tiempo real,Pachitea,Chaglla
+472D0552,Chinchavito,Peru,PE,Huánuco,-9.515,-75.9425,795,2021-06-01,EHA,No,Automática,Huanuco,Chinchao
+230003,Chinchavito,Peru,PE,Huánuco,-9.515,-75.9425,744,2021-05-01,HLM,No,Convencional – tiempo diferido,Huanuco,Chinchao
+110148,Cushi,Peru,PE,Huánuco,-10.33924,-76.07321,3965,2025-12-01,EMA,Sí,Automática,Ambo,San Rafael
+004450,Dos De Mayo,Peru,PE,Huánuco,-9.7171,-76.77374,3414,2017-01-01,CO,Sí,Convencional – tiempo real,Dos De Mayo,Pachas
+000404,Huanuco,Peru,PE,Huánuco,-9.95201,-76.24856,1919,2017-05-01,CP,Sí,Convencional – tiempo real,Huanuco,Amarilis
+109082,Huanuco,Peru,PE,Huánuco,-9.9378,-76.24793,1947,2021-04-01,EMA,Sí,Automática,Huanuco,Huanuco
+230717,Huertas,Peru,PE,Huánuco,-10.1265,-76.20511,2050,2020-11-01,HLM,No,Convencional – tiempo diferido,Ambo,Ambo
+000456,Jacas Chico,Peru,PE,Huánuco,-9.88474,-76.50094,3703,2017-01-01,CO,Sí,Convencional – tiempo real,Yarowilca,Jacas Chico
+109085,Jacas Grande,Peru,PE,Huánuco,-9.5433,-76.76042,3273,2016-09-01,CO,Sí,Convencional – tiempo diferido,Huamalies,Jacas Grande
+110140,Jesus De Lauricocha,Peru,PE,Huánuco,-10.07819,-76.63119,3486,2020-11-01,EMA,Sí,Automática,Lauricocha,Jesus
+000453,La Divisoria,Peru,PE,Huánuco,-9.20091,-75.81393,1672,2017-01-01,CO,Sí,Convencional – tiempo real,Leoncio Prado,Hermilio Valdizan
+109094,Puca Puca,Peru,PE,Huánuco,-9.87895,-76.5909,3574,2021-06-01,EAMA,Sí,Automática,Yarowilca,Chavinillo
+472DA5AA,Puente Bella,Peru,PE,Huánuco,-9.32411,-76.02935,682,2021-06-01,EHA,No,Automática,Leoncio Prado,Rupa-Rupa
+230004,Puente Bella,Peru,PE,Huánuco,-9.32411,-76.02935,682,2021-05-01,HLM,No,Convencional – tiempo diferido,Leoncio Prado,Rupa-Rupa
+221811,Puente Higueras,Peru,PE,Huánuco,-9.9222,-76.30938,1993,2017-01-01,HLM,No,Convencional – tiempo real,Huanuco,Huanuco
+230001,Puente Perez,Peru,PE,Huánuco,-9.34694,-75.9825,675,2021-05-01,HLM,No,Convencional – tiempo diferido,Leoncio Prado,Mariano Damaso Beraun
+472B730C,Puente Taruca,Peru,PE,Huánuco,-9.85056,-76.1519,1825,2021-04-01,EHA,No,Automática,Huanuco,Churubamba
+000478,Puerto Inca,Peru,PE,Huánuco,-9.3851,-74.96376,212,2017-01-01,CO,Sí,Convencional – tiempo real,Puerto Inca,Puerto Inca
+4727A4F8,Puerto Inca,Peru,PE,Huánuco,-9.3851,-74.96376,212,2021-05-01,EAMA,Sí,Automática,Puerto Inca,Puerto Inca
+231101,Puerto Inca,Peru,PE,Huánuco,-9.38271,-74.96792,192,2017-01-01,HLM,No,Convencional – tiempo real,Puerto Inca,Puerto Inca
+110146,Quisca,Peru,PE,Huánuco,-10.08922,-76.21556,2097,2024-11-01,EMA,Sí,Automática,Ambo,Tomay Kichwa
+4720EB14,San Martin,Peru,PE,Huánuco,-9.40385,-76.76482,3548,2020-06-01,EMA,Sí,Automática,Huamalies,Chavin De Pariarca
+000552,San Rafael,Peru,PE,Huánuco,-10.32926,-76.17658,2699,2017-01-01,CO,Sí,Convencional – tiempo real,Ambo,San Rafael
+221309,San Rafael,Peru,PE,Huánuco,-10.3399,-76.1824,2699,2017-01-01,HLM,No,Convencional – tiempo real,Ambo,San Rafael
+230002,Taruca,Peru,PE,Huánuco,-9.85038,-76.15236,1829,2021-05-01,HLM,No,Convencional – tiempo diferido,Huanuco,Churubamba
+000468,Tingo Maria,Peru,PE,Huánuco,-9.31016,-76.00049,657,2017-01-01,CP,Sí,Convencional – tiempo real,Leoncio Prado,Rupa-Rupa
+47270400,Tingo Maria,Peru,PE,Huánuco,-9.29601,-76.00207,646,2021-06-01,EHMA,Sí,Automática,Leoncio Prado,Rupa-Rupa
+221820,Tingo Maria,Peru,PE,Huánuco,-9.29601,-76.00207,646,2017-01-01,HLG,No,Convencional – tiempo real,Leoncio Prado,Rupa-Rupa
+000480,Tournavista,Peru,PE,Huánuco,-8.92749,-74.70882,196,2018-06-01,CO,Sí,Convencional – tiempo real,Puerto Inca,Tournavista
+000469,Tulumayo,Peru,PE,Huánuco,-9.14706,-76.00944,612,2018-03-01,MAP,Sí,Convencional – tiempo real,Leoncio Prado,Jose Crespo Y Castillo
+472A446C,Beta Santiago,Peru,PE,Ica,-14.23739,-75.67022,386,2021-06-01,EMA,Sí,Automática,Ica,Santiago
+203501,Conta,Peru,PE,Ica,-13.43942,-75.97514,313,2017-02-01,HLG,No,Convencional – tiempo diferido,Chincha,Alto Laran
+4728A26A,Conta M,Peru,PE,Ica,-13.43936,-75.97517,313,2020-07-01,EMA,Sí,Automática,Chincha,Alto Laran
+000727,Copara,Peru,PE,Ica,-14.97501,-74.89082,587,2018-02-01,CP,Sí,Convencional – tiempo real,Nazca,Vista Alegre
+4728B11C,Fonagro,Peru,PE,Ica,-13.45935,-76.15243,47,2021-03-01,EAMA,Sí,Automática,Chincha,Alto Laran
+000791,Fonagro (Chincha),Peru,PE,Ica,-13.45935,-76.15243,71,2017-01-01,MAP,Sí,Convencional – tiempo real,Chincha,Chincha Baja
+000650,Hacienda Bernales,Peru,PE,Ica,-13.74114,-75.96641,293,2017-01-01,CO,Sí,Convencional – tiempo real,Pisco,Humay
+230712,Huallpoca,Peru,PE,Ica,-14.63201,-74.95588,683,2017-01-01,HLG,No,Convencional – tiempo real,Nazca,El Ingenio
+156225,Huallpoca,Peru,PE,Ica,-14.632,-74.9559,683,2021-01-01,PLU,Sí,Convencional – tiempo diferido,Nazca,El Ingenio
+000640,Huamani,Peru,PE,Ica,-13.843,-75.60704,794,2017-01-01,CO,Sí,Convencional – tiempo real,Ica,San Jose De Los Molinos
+213503,Huamani El Tambo,Peru,PE,Ica,-13.84386,-75.58944,872,2021-05-01,EHMA,Sí,Automática,Ica,Ica
+213504,Huamani El Tambo,Peru,PE,Ica,-13.84358,-75.58928,883,2020-10-01,HLM,No,Convencional – tiempo diferido,Ica,San Jose De Los Molinos
+000639,Huancano,Peru,PE,Ica,-13.60118,-75.62102,1005,2020-12-01,CO,Sí,Convencional – tiempo diferido,Pisco,Huancano
+000794,Las Viñas (Tacama),Peru,PE,Ica,-13.99978,-75.72052,429,2017-01-01,CO,Sí,Convencional – tiempo real,Ica,La Tinguiña
+213403,Letrayoc,Peru,PE,Ica,-13.65773,-75.74496,682,2020-07-01,EHA,No,Automática,Pisco,Huancano
+203601,Letrayoc,Peru,PE,Ica,-13.65773,-75.74496,682,2017-07-01,HLG,No,Convencional – tiempo real,Pisco,Huancano
+156132,Letrayoc,Peru,PE,Ica,-13.65773,-75.74496,682,2019-10-01,PLU,Sí,Convencional – tiempo diferido,Pisco,Huancano
+213506,Los Molinos,Peru,PE,Ica,-13.9102,-75.66696,560,2025-02-01,EHA,No,Automática,Ica,Ica
+113244,Los Molinos,Peru,PE,Ica,-13.9248,-75.6786,500,2020-12-01,PLU,Sí,Convencional – tiempo diferido,Ica,San Jose De Los Molinos
+213500,Los Molinos (Alejandro Plaza Garcia),Peru,PE,Ica,-13.92475,-75.67869,500,2017-05-01,HLG,No,Convencional – tiempo real,Ica,San Jose De Los Molinos
+000730,Ocucaje,Peru,PE,Ica,-14.37844,-75.68208,311,2017-01-01,CO,Sí,Convencional – tiempo real,Ica,Ocucaje
+000731,Palpa,Peru,PE,Ica,-14.54939,-75.18926,340,2017-01-01,CO,Sí,Convencional – tiempo real,Palpa,Palpa
+114136,Palpa,Peru,PE,Ica,-14.54935,-75.18921,340,2017-01-01,PE,Depende,Automática,Palpa,Palpa
+114140,Pampa Blanca,Peru,PE,Ica,-14.23722,-75.10389,1020,2025-10-01,EMA,Sí,Automática,Palpa,Rio Grande
+157102,Pampa Blanca,Peru,PE,Ica,-14.23731,-75.10407,1020,2017-09-01,PE,Depende,Convencional – tiempo real,Palpa,Rio Grande
+000698,Rio Grande,Peru,PE,Ica,-14.52648,-75.21306,325,2018-02-01,CO,Sí,Convencional – tiempo real,Palpa,Rio Grande
+000700,San Camilo,Peru,PE,Ica,-14.07331,-75.71101,407,2017-01-01,MAP,Sí,Convencional – tiempo real,Ica,Parcona
+156113,San Juan De Yanac,Peru,PE,Ica,-13.21058,-75.78697,2550,2017-01-01,CO,Sí,Convencional – tiempo real,Chincha,San Juan De Yanac
+000857,San Pedro De Huacarpana,Peru,PE,Ica,-13.0479,-75.6464,3794,2017-05-01,CO,Sí,Convencional – tiempo real,Chincha,San Pedro De Huacarpana
+4728E160,San Pedro De Huacarpana,Peru,PE,Ica,-13.04889,-75.64806,3630,2017-06-01,EMA,Sí,Automática,Chincha,San Pedro De Huacarpana
+111174,Acopalca,Peru,PE,Junín,-11.9873,-75.1035,3897,2021-04-01,CO,Sí,Convencional – tiempo diferido,Huancayo,Huancayo
+111293,Apata,Peru,PE,Junín,-11.85277,-75.36357,,2026-10-01,EAMA,Sí,Automática,,
+155115,Carhuacayan,Peru,PE,Junín,-11.20267,-76.28505,4127,2017-06-01,PLU,Sí,Convencional – tiempo diferido,Yauli,Santa Barbara De Carhuacayan
+111288,Chacapalpa,Peru,PE,Junín,-11.7525,-75.74226,3947,2021-07-01,EMA,Sí,Automática,Yauli,Chacapalpa
+112283,Chaquicocha,Peru,PE,Junín,-12.02731,-75.5091,,2026-10-01,CO,Sí,Convencional – tiempo diferido,,
+250502,Chirani,Peru,PE,Junín,-10.86167,-75.00632,532,2023-08-01,HLM,No,Convencional – tiempo diferido,Chanchamayo,Perene
+110143,Chirani,Peru,PE,Junín,-10.86167,-75.00632,532,2023-08-01,PLU,Sí,Convencional – tiempo diferido,Chanchamayo,Perene
+000560,Comas,Peru,PE,Junín,-11.74794,-75.13012,3603,2017-07-01,CO,Sí,Convencional – tiempo real,Concepcion,Comas
+000555,Huasahuasi,Peru,PE,Junín,-11.2677,-75.6391,2747,2017-01-01,CO,Sí,Convencional – tiempo real,Tarma,Huasahuasi
+000635,Huayao,Peru,PE,Junín,-12.0402,-75.32049,3321,2017-01-01,CP,Sí,Convencional – tiempo real,Chupaca,Huachac
+472DF5D6,Huaytapallana,Peru,PE,Junín,-11.92717,-75.06186,4648,2021-06-01,EMA,Sí,Automática,Huancayo,Huancayo
+155231,Ingenio,Peru,PE,Junín,-11.87521,-75.29665,3373,2017-01-01,CO,Sí,Convencional – tiempo real,Concepcion,Santa Rosa De Ocopa
+000503,Jauja,Peru,PE,Junín,-11.78663,-75.48687,3363,2017-01-01,CO,Sí,Convencional – tiempo real,Jauja,Sausa
+111583,Junin,Peru,PE,Junín,-11.14328,-75.98878,4101,2017-01-01,CO,Sí,Convencional – tiempo real,Junin,Junin
+000604,La Oroya,Peru,PE,Junín,-11.57177,-75.95762,3842,2017-01-01,CO,Sí,Convencional – tiempo real,Yauli,Santa Rosa De Sacco
+000642,Laive,Peru,PE,Junín,-12.25229,-75.36053,3833,2017-01-01,CO,Sí,Convencional – tiempo real,Chupaca,Yanacancha
+111296,Mantaro,Peru,PE,Junín,-11.83382,-75.39073,3312,2025-07-01,EAMA,Sí,Automática,Jauja,El Mantaro
+472D9030,Marcapomacocha,Peru,PE,Junín,-11.40443,-76.32508,4443,2021-05-01,EMA,Sí,Automática,Yauli,Marcapomacocha
+111294,Muqui,Peru,PE,Junín,-11.82102,-75.43101,3171,2023-06-01,EAMA,Sí,Automática,Jauja,Muqui
+000476,Pichanaki,Peru,PE,Junín,-10.93352,-74.86681,497,2017-01-01,CO,Sí,Convencional – tiempo real,Chanchamayo,Pichanaqui
+111299,Potsoteni,Peru,PE,Junín,-11.41316,-74.14723,345,2025-11-01,EMA,Sí,Automática,Satipo,Pangoa
+230931,Puente Breña,Peru,PE,Junín,-12.05216,-75.24051,3194,2017-01-01,HLM,No,Convencional – tiempo real,Huancayo,Pilcomayo
+000572,Puerto Ocopa,Peru,PE,Junín,-11.1467,-74.3051,319,2021-04-01,CO,Sí,Convencional – tiempo diferido,Satipo,Rio Tambo
+155229,Ricran,Peru,PE,Junín,-11.54,-75.5273,3674,2017-01-01,CO,Sí,Convencional – tiempo real,Jauja,Ricran
+230801,Rio Pallanga,Peru,PE,Junín,-11.1865,-76.32569,4214,2021-04-01,HLM,No,Convencional – tiempo diferido,Yauli,Santa Barbara De Carhuacayan
+250501,Rio Tulumayo,Peru,PE,Junín,-11.2091,-75.3348,939,2018-03-01,HLM,No,Convencional – tiempo real,Chanchamayo,Vitoc
+111281,Rio Tulumayo,Peru,PE,Junín,-11.2091,-75.3348,939,2013-12-01,PLU,Sí,Convencional – tiempo diferido,Chanchamayo,Vitoc
+230803,Rumichaca,Peru,PE,Junín,-11.69886,-76.10639,4198,2021-05-01,HLM,No,Convencional – tiempo diferido,Yauli,Yauli
+005232,Runatullo,Peru,PE,Junín,-11.61812,-75.01224,3473,2017-01-01,CO,Sí,Convencional – tiempo real,Concepcion,Comas
+000594,San Juan De Jarpa,Peru,PE,Junín,-12.12454,-75.43178,3660,2017-01-01,CO,Sí,Convencional – tiempo real,Chupaca,San Juan De Jarpa
+000477,Santa Ana,Peru,PE,Junín,-12.00955,-75.22158,3293,2017-01-01,MAP,Sí,Convencional – tiempo real,Huancayo,El Tambo
+000571,Satipo,Peru,PE,Junín,-11.2247,-74.6087,577,2017-01-01,CO,Sí,Convencional – tiempo real,Satipo,Satipo
+4725C4EA,Satipo,Peru,PE,Junín,-11.2247,-74.6087,577,2019-11-01,EMA,Sí,Automática,Satipo,Satipo
+000554,Tarma,Peru,PE,Junín,-11.3967,-75.6899,3025,2017-01-01,CO,Sí,Convencional – tiempo real,Tarma,Tarma
+47257764,Tarma,Peru,PE,Junín,-11.3967,-75.6899,3025,2021-06-01,EAMA,Sí,Automática,Tarma,Tarma
+000608,Viques,Peru,PE,Junín,-12.15603,-75.2283,3186,2017-01-01,CO,Sí,Convencional – tiempo real,Huancayo,Viques
+155121,Yantac,Peru,PE,Junín,-11.34583,-76.40453,4617,2018-09-01,CO,Sí,Convencional – tiempo real,Yauli,Marcapomacocha
+155235,Yauli,Peru,PE,Junín,-11.66667,-76.08333,4094,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Yauli,Yauli
+154103,Cachicadan,Peru,PE,La Libertad,-8.09184,-78.14938,2892,2017-01-01,CO,Sí,Convencional – tiempo real,Santiago De Chuco,Cachicadan
+153101,Callancas,Peru,PE,La Libertad,-7.76747,-78.47727,1501,2017-07-01,CO,Sí,Convencional – tiempo real,Otuzco,Charat
+472D8346,Callancas,Peru,PE,La Libertad,-7.7675,-78.47729,1501,2021-06-01,EMA,Sí,Automática,Otuzco,Charat
+472EB1D2,Capachique,Peru,PE,La Libertad,-7.85642,-78.31184,2890,2021-03-01,EMA,Sí,Automática,Otuzco,Usquil
+472D30C8,Casagrande,Peru,PE,La Libertad,-7.75031,-79.18869,142,2021-06-01,EMA,Sí,Automática,Ascope,Casagrande
+472EA2A4,Cascas,Peru,PE,La Libertad,-7.47987,-78.82367,1240,2021-06-01,EMA,Sí,Automática,Gran Chimu,Cascas
+000313,Cherrepe,Peru,PE,La Libertad,-7.11887,-79.56118,51,2018-02-01,CO,Sí,Convencional – tiempo real,Chepen,Pacanga
+211408,Condorcerro,Peru,PE,La Libertad,-8.65793,-78.26172,475,2020-12-01,EHA,No,Automática,Santa,Chimbote
+47E0A2A8,El Tambo,Peru,PE,La Libertad,-7.57398,-78.70655,688,2021-06-01,EHMA,Sí,Automática,Gran Chimu,Marmot
+211003,El Tambo,Peru,PE,La Libertad,-7.57398,-78.70655,688,2023-01-01,HLM,No,Convencional – tiempo diferido,Gran Chimu,Marmot
+201717,Huacamarcanga,Peru,PE,La Libertad,-8.1081,-78.2876,3902,2021-05-01,HLM,No,Convencional – tiempo diferido,Santiago De Chuco,Quiruvilca
+154112,Huacamarcanga,Peru,PE,La Libertad,-8.1221,-78.2937,4092,2021-05-01,PE,Depende,Convencional – tiempo diferido,Santiago De Chuco,Quiruvilca
+000374,Huamachuco,Peru,PE,La Libertad,-7.81916,-78.04013,3186,2017-01-01,CO,Sí,Convencional – tiempo real,Sanchez Carrion,Huamachuco
+153327,Huangacocha,Peru,PE,La Libertad,-7.9375,-78.0681,3770,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Sanchez Carrion,Huamachuco
+154101,Julcan,Peru,PE,La Libertad,-8.04229,-78.48607,3397,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Julcan,Julcan
+107131,La Fortuna,Peru,PE,La Libertad,-7.67042,-78.40242,3326,2021-06-01,EMA,Sí,Automática,Otuzco,Huaranchal
+220204,Laguna Huangacocha,Peru,PE,La Libertad,-7.9325,-78.06705,3895,2021-05-01,HLM,No,Convencional – tiempo diferido,Sanchez Carrion,Huamachuco
+472D552E,Lucma,Peru,PE,La Libertad,-7.64333,-78.55135,2225,2020-08-01,EMA,Sí,Automática,Gran Chimu,Lucma
+472CC2B6,Marmot,Peru,PE,La Libertad,-7.7635,-78.66725,2914,2021-06-01,EMA,Sí,Automática,Gran Chimu,Marmot
+154106,Mollepata,Peru,PE,La Libertad,-8.19137,-77.95397,2708,2021-05-01,PE,Depende,Convencional – tiempo diferido,Santiago De Chuco,Mollepata
+472E74CC,Puente Coina,Peru,PE,La Libertad,-7.79636,-78.38012,1823,2021-06-01,EHMA,Sí,Automática,Otuzco,Usquil
+211004,Puente Coina,Peru,PE,La Libertad,-7.79636,-78.38012,1823,2023-01-01,HLM,No,Convencional – tiempo diferido,Otuzco,Usquil
+472E5220,Puente Palmira,Peru,PE,La Libertad,-7.54919,-78.81051,647,2021-06-01,EHMA,Sí,Automática,Gran Chimu,Cascas
+211002,Puente Palmira,Peru,PE,La Libertad,-7.54919,-78.81051,647,2023-01-01,HLM,No,Convencional – tiempo diferido,Gran Chimu,Cascas
+4727319A,Quiruvilca,Peru,PE,La Libertad,-8.00419,-78.3079,4047,2021-06-01,EMA,Sí,Automática,Santiago De Chuco,Quiruvilca
+154102,Quiruvilca,Peru,PE,La Libertad,-8.00422,-78.30791,4047,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Santiago De Chuco,Quiruvilca
+211001,Salinar,Peru,PE,La Libertad,-7.66069,-78.96109,355,2017-11-01,EHA,No,Automática,Ascope,Ascope
+000398,Salpo,Peru,PE,La Libertad,-8.00535,-78.6071,3418,2017-01-01,CO,Sí,Convencional – tiempo real,Otuzco,Salpo
+153206,Sinsicap,Peru,PE,La Libertad,-7.85021,-78.75503,2315,2017-12-01,PLU,Sí,Convencional – tiempo diferido,Otuzco,Sinsicap
+000325,Talla (Guadalupe),Peru,PE,La Libertad,-7.28005,-79.4191,117,2021-05-01,CP,Sí,Convencional – tiempo diferido,Pacasmayo,Guadalupe
+107130,Ticapampa,Peru,PE,La Libertad,-7.91641,-77.90148,2819,2021-06-01,EMA,Sí,Automática,Sanchez Carrion,Sarin
+000406,Trujillo,Peru,PE,La Libertad,-8.11203,-78.9851,44,2017-05-01,CO,Sí,Convencional – tiempo real,Trujillo,Laredo
+472D60B4,Usquil,Peru,PE,La Libertad,-7.8186,-78.41497,3143,2021-06-01,EMA,Sí,Automática,Otuzco,Usquil
+000320,Cayalti,Peru,PE,Lambayeque,-6.8808,-79.547,90,2017-01-01,CP,Sí,Convencional – tiempo real,Chiclayo,Cayalti
+105122,Cerro De Arena,Peru,PE,Lambayeque,-5.92461,-80.20463,59,2021-04-01,CO,Sí,Convencional – tiempo diferido,Lambayeque,Olmos
+106146,Chumbemenique,Peru,PE,Lambayeque,-6.86428,-79.37714,,2026-10-01,EMA,Sí,Convencional – tiempo diferido,,
+153102,Cueva Blanca,Peru,PE,Lambayeque,-6.1313,-79.4045,3300,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Ferreñafe,Incahuasi
+000307,Incahuasi,Peru,PE,Lambayeque,-6.23389,-79.31806,3052,2021-05-01,CP,Sí,Convencional – tiempo diferido,Ferreñafe,Incahuasi
+000333,Jayanca,Peru,PE,Lambayeque,-6.33159,-79.76869,78,2017-01-01,CO,Sí,Convencional – tiempo real,Lambayeque,Jayanca
+000301,Lambayeque,Peru,PE,Lambayeque,-6.73438,-79.90894,18,2017-01-01,CP,Sí,Convencional – tiempo real,Lambayeque,San Jose
+000302,Oyotun,Peru,PE,Lambayeque,-6.86394,-79.32062,187,2017-01-01,CO,Sí,Convencional – tiempo real,Chiclayo,Oyotun
+000262,Pasabar,Peru,PE,Lambayeque,-5.83722,-79.81908,124,2018-02-01,CP,Sí,Convencional – tiempo real,Lambayeque,Olmos
+4726F67E,Pasabar,Peru,PE,Lambayeque,-5.83714,-79.81911,120,2020-12-01,EAMA,Sí,Automática,Lambayeque,Olmos
+105121,Pasaje Sur,Peru,PE,Lambayeque,-5.91741,-79.97184,85,2020-10-01,CO,Sí,Convencional – tiempo diferido,Lambayeque,Olmos
+003114,Puchaca,Peru,PE,Lambayeque,-6.37361,-79.46951,336,2021-04-01,CO,Sí,Convencional – tiempo diferido,Ferreñafe,Incahuasi
+106138,Puchaca,Peru,PE,Lambayeque,-6.37353,-79.46673,339,2021-03-01,EHA,No,Automática,Ferreñafe,Incahuasi
+200801,Puchaca,Peru,PE,Lambayeque,-6.37317,-79.46697,345,2020-09-01,HLG,No,Convencional – tiempo diferido,Ferreñafe,Incahuasi
+000332,Reque,Peru,PE,Lambayeque,-6.88613,-79.8355,13,2017-01-01,CO,Sí,Convencional – tiempo real,Chiclayo,Eten
+000306,Sipan,Peru,PE,Lambayeque,-6.80141,-79.60002,87,2017-01-01,CO,Sí,Convencional – tiempo real,Chiclayo,Saña
+000335,Tinajones,Peru,PE,Lambayeque,-6.65493,-79.4279,182,2019-02-01,CP,Sí,Convencional – tiempo diferido,Chiclayo,Chongoyape
+47E2F720,Tinajones,Peru,PE,Lambayeque,-6.65489,-79.42792,181,2019-08-01,EMA,Sí,Automática,Chiclayo,Chongoyape
+47201542,Tongorrape,Peru,PE,Lambayeque,-6.06692,-79.68203,180,2021-06-01,EMA,Sí,Automática,Lambayeque,Motupe
+106140,Vista Florida,Peru,PE,Lambayeque,-6.72775,-79.78088,42,2021-06-01,EMA,Sí,Automática,Chiclayo,Picsi
+111300,Alcantarilla,Peru,PE,Lima,-11.06061,-77.55006,131,2021-11-01,EMA,Sí,Automática,Huaura,Huaura
+000501,Alcantarilla,Peru,PE,Lima,-11.06068,-77.55011,131,2017-01-01,MAP,Sí,Convencional – tiempo real,Huaura,Huaura
+151211,Ambar,Peru,PE,Lima,-10.75484,-77.2668,2076,2019-10-01,PLU,Sí,Convencional – tiempo diferido,Huaura,Ambar
+155201,Andajes,Peru,PE,Lima,-10.78333,-76.9,2707,2019-07-01,PLU,Sí,Convencional – tiempo diferido,Oyon,Andajes
+203003,Antapucro,Peru,PE,Lima,-12.0314,-76.62437,1026,2018-02-01,HLG,No,Convencional – tiempo real,Huarochiri,Antioquia
+156100,Antioquia,Peru,PE,Lima,-12.06617,-76.52884,1422,2019-02-01,PE,Depende,Convencional – tiempo diferido,Huarochiri,Antioquia
+472A218A,Antonio Raymondi,Peru,PE,Lima,-11.77606,-77.15139,47,2021-06-01,EMA,Sí,Automática,Lima,Ancon
+151204,Arahuay,Peru,PE,Lima,-11.62091,-76.67034,2504,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Canta,Arahuay
+202903,Autisha,Peru,PE,Lima,-11.73523,-76.60659,2152,2018-06-01,HLM,No,Convencional – tiempo diferido,Huarochiri,San Antonio
+155122,Autisha,Peru,PE,Lima,-11.73815,-76.61103,2220,2017-10-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,San Antonio
+156104,Ayaviri,Peru,PE,Lima,-12.38208,-76.13672,3224,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Yauyos,Ayaviri
+000540,Cajatambo,Peru,PE,Lima,-10.47788,-76.98971,3432,2017-06-01,CO,Sí,Convencional – tiempo real,Cajatambo,Cajatambo
+000532,Camay,Peru,PE,Lima,-10.91294,-77.6489,59,2017-01-01,CO,Sí,Convencional – tiempo real,Huaura,Vegueta
+006617,Campo De Marte,Peru,PE,Lima,-12.07053,-77.04317,123,2018-02-01,CP,Sí,Convencional – tiempo real,Lima,Jesus Maria
+112181,Campo De Marte,Peru,PE,Lima,-12.07056,-77.04314,117,2021-06-01,EMA,Sí,Automática,Lima,Jesus Maria
+000547,Canta,Peru,PE,Lima,-11.47121,-76.62569,2818,2017-01-01,CP,Sí,Convencional – tiempo real,Canta,Canta
+111286,Carabayllo,Peru,PE,Lima,-11.90219,-77.03364,179,2021-06-01,EMA,Sí,Automática,Lima,Carabayllo
+47E323B2,Carac,Peru,PE,Lima,-11.19005,-76.77937,2630,2019-10-01,EMA,Sí,Automática,Huaral,Veintisiete De Noviembre
+212200,Caral Las Minas,Peru,PE,Lima,-10.90961,-77.46789,463,2016-01-01,EHA,No,Automática,Barranca,Supe
+155223,Carampoma,Peru,PE,Lima,-11.65503,-76.51514,3424,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,Carampoma
+472364DC,Carania,Peru,PE,Lima,-12.3444,-75.87215,3840,2021-06-01,EAMA,Sí,Automática,Yauyos,Carania
+156109,Carania,Peru,PE,Lima,-12.3444,-75.87215,3840,2019-08-01,PE,Depende,Convencional – tiempo diferido,Yauyos,Carania
+472D73C2,Casapalca,Peru,PE,Lima,-11.638,-76.23325,4294,2021-06-01,EMA,Sí,Automática,Huarochiri,Chicla
+155446,Casapalca,Peru,PE,Lima,-11.63804,-76.23332,4294,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,Chicla
+113249,Cañete,Peru,PE,Lima,-13.07475,-76.33042,116,2021-03-01,EMA,Sí,Automática,Cañete,Imperial
+112278,Ceres,Peru,PE,Lima,-12.02867,-76.92711,339,2023-01-01,EMA,Sí,Automática,Lima,Ate
+47278214,Chosica,Peru,PE,Lima,-11.92986,-76.68964,867,2017-01-01,EHMA,Sí,Automática,Lima,Lurigancho
+202906,Chosica,Peru,PE,Lima,-11.92983,-76.68973,867,2017-01-01,HLG,No,Convencional – tiempo real,Lima,Lurigancho
+151209,Chosica,Peru,PE,Lima,-11.92986,-76.68975,867,2018-01-01,PLU,Sí,Convencional – tiempo real,Lima,Lurigancho
+47E2323E,Cuchuanca,Peru,PE,Lima,-11.20158,-76.7881,2310,2021-06-01,EHA,No,Automática,Huaral,Veintisiete De Noviembre
+151208,Gorgor,Peru,PE,Lima,-10.62136,-77.04027,3025,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Cajatambo,Gorgor
+212607,Huachipa,Peru,PE,Lima,-12.01283,-76.89542,394,2024-12-01,EHA,No,Automática,Lima,Lurigancho
+155209,Huamantanga,Peru,PE,Lima,-11.50247,-76.74675,3364,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Canta,Huamantanga
+151207,Huancata,Peru,PE,Lima,-12.18618,-76.24066,2684,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,Sangallaya
+156110,Huangascar,Peru,PE,Lima,-12.89858,-75.83365,2500,2018-03-01,PE,Depende,Convencional – tiempo real,Yauyos,Huangascar
+000633,Huarochiri,Peru,PE,Lima,-12.13886,-76.23429,3120,2017-06-01,CO,Sí,Convencional – tiempo real,Huarochiri,Huarochiri
+4725F170,Huaros,Peru,PE,Lima,-11.40744,-76.57584,3580,2021-06-01,EAMA,Sí,Automática,Canta,Huaros
+155218,Huaros,Peru,PE,Lima,-11.40743,-76.5758,3569,2018-08-01,PLU,Sí,Convencional – tiempo diferido,Canta,Huaros
+000539,Huayan,Peru,PE,Lima,-11.45281,-77.122,346,2018-03-01,CO,Sí,Convencional – tiempo real,Huaral,Huaral
+156103,Huañec,Peru,PE,Lima,-12.29359,-76.13902,3200,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Yauyos,Huañec
+203101,La Capilla,Peru,PE,Lima,-12.52194,-76.49637,403,2017-08-01,HLG,No,Convencional – tiempo real,Cañete,Calango
+155217,Lachaqui,Peru,PE,Lima,-11.554,-76.62706,3624,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Canta,Lachaqui
+155291,Laguna Cochaquillo,Peru,PE,Lima,-10.80394,-76.65537,4428,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Oyon,Oyon
+202601,Laguna Surasaca,Peru,PE,Lima,-10.5213,-76.7885,4385,2019-03-01,HLG,No,Convencional – tiempo diferido,Oyon,Oyon
+155206,Laguna Surasaca,Peru,PE,Lima,-10.5238,-76.7867,4380,2019-07-01,PLU,Sí,Convencional – tiempo diferido,Oyon,Oyon
+151214,Langa,Peru,PE,Lima,-12.12645,-76.42108,2863,2018-09-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,Langa
+112281,Las Palmas,Peru,PE,Lima,-12.15675,-77.01303,74,2021-12-01,EMA,Sí,Automática,Lima,Santiago De Surco
+000534,Lomas De Lachay,Peru,PE,Lima,-11.36014,-77.36839,416,2017-06-01,CO,Sí,Convencional – tiempo real,Huaura,Huacho
+000548,Matucana,Peru,PE,Lima,-11.83913,-76.37792,2417,2018-02-01,CO,Sí,Convencional – tiempo real,Huarochiri,Matucana
+472CE45A,Matucana,Peru,PE,Lima,-11.83911,-76.378,2421,2021-06-01,EMA,Sí,Automática,Huarochiri,Matucana
+202902,Milloc,Peru,PE,Lima,-11.57046,-76.35017,4391,2021-05-01,HLM,No,Convencional – tiempo diferido,Huarochiri,Carampoma
+155514,Milloc,Peru,PE,Lima,-11.57131,-76.34995,4384,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,Carampoma
+202802,Obrajillo,Peru,PE,Lima,-11.45293,-76.62217,2706,2017-01-01,HLG,No,Convencional – tiempo real,Canta,San Buenaventura
+156133,Obrajillo,Peru,PE,Lima,-11.45264,-76.62206,2696,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Canta,San Buenaventura
+000541,Oyon,Peru,PE,Lima,-10.66769,-76.7687,3652,2020-02-01,CO,Sí,Convencional – tiempo diferido,Oyon,Oyon
+000638,Pacaran,Peru,PE,Lima,-12.86689,-76.05793,684,2017-01-01,CO,Sí,Convencional – tiempo real,Cañete,Pacaran
+203303,Pacaran,Peru,PE,Lima,-12.86096,-76.05479,688,2018-02-01,HLM,No,Convencional – tiempo real,Cañete,Pacaran
+155200,Paccho,Peru,PE,Lima,-10.95602,-76.93473,3208,2018-07-01,PLU,Sí,Convencional – tiempo diferido,Huaura,Paccho
+155207,Pachamachay,Peru,PE,Lima,-11.06525,-76.9141,3175,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huaura,Leoncio Prado
+155107,Pampa Libre,Peru,PE,Lima,-10.86578,-76.97,1756,2021-02-01,CO,Sí,Convencional – tiempo diferido,Huaura,Checras
+112277,Pantanos De Villa,Peru,PE,Lima,-12.21142,-76.98797,3,2022-07-01,EMA,Sí,Automática,Lima,Chorrillos
+202801,Pariacancha,Peru,PE,Lima,-11.39315,-76.50244,3842,2021-03-01,HLM,No,Convencional – tiempo diferido,Canta,Huaros
+155112,Pariacancha,Peru,PE,Lima,-11.39315,-76.50294,3854,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Canta,Huaros
+155212,Parquin,Peru,PE,Lima,-10.96665,-76.71983,3571,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huaura,Santa Leonor
+000542,Picoy,Peru,PE,Lima,-10.92162,-76.73701,3013,2018-03-01,CO,Sí,Convencional – tiempo real,Huaura,Santa Leonor
+110139,Picoy,Peru,PE,Lima,-10.92159,-76.73703,3013,2021-06-01,EHA,No,Automática,Huaura,Santa Leonor
+202607,Picoy,Peru,PE,Lima,-10.92164,-76.7367,2903,2018-02-01,HLG,No,Convencional – tiempo real,Huaura,Santa Leonor
+47E34654,Pirca,Peru,PE,Lima,-11.23284,-76.65514,3342,2021-06-01,EMA,Sí,Automática,Huaral,Atavillos Alto
+155214,Pirca,Peru,PE,Lima,-11.2328,-76.65513,3314,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huaral,Atavillos Alto
+212700,Puente Antapucro,Peru,PE,Lima,-12.0333,-76.6333,1021,2021-06-01,EHA,No,Automática,Huarochiri,Antioquia
+47E22148,Puente Callantama,Peru,PE,Lima,-11.2989,-76.8518,1290,2021-06-01,EHA,No,Automática,Huaral,Atavillos Bajo
+202910,Puente Huachipa,Peru,PE,Lima,-12.01281,-76.89441,395,2018-02-01,HLM,No,Convencional – tiempo real,Lima,Lurigancho
+111151,Puente Magdalena,Peru,PE,Lima,-11.69463,-76.83719,935,2018-02-01,HLG,No,Convencional – tiempo real,Canta,Santa Rosa De Quives
+111287,Puente Piedra,Peru,PE,Lima,-11.86325,-77.07413,180,2019-02-01,EMA,Sí,Automática,Lima,Puente Piedra
+202904,Rio Blanco,Peru,PE,Lima,-11.7345,-76.25938,3510,2017-08-01,HLG,No,Convencional – tiempo real,Huarochiri,Chicla
+151210,Rio Blanco,Peru,PE,Lima,-11.73447,-76.25967,3503,2020-02-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,Chicla
+112193,San Borja,Peru,PE,Lima,-12.10859,-77.00769,128,2020-08-01,EMA,Sí,Automática,Lima,San Borja
+155225,San Jose De Parac,Peru,PE,Lima,-11.80053,-76.25811,3829,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,San Mateo
+112267,San Juan De Lurigancho,Peru,PE,Lima,-11.98164,-76.99925,240,2020-12-01,EMA,Sí,Automática,Lima,San Juan De Lurigancho
+156102,San Lazaro De Escomarca,Peru,PE,Lima,-12.18088,-76.35207,3758,2017-01-01,CO,Sí,Convencional – tiempo real,Huarochiri,Langa
+112265,San Martin De Porres,Peru,PE,Lima,-12.00889,-77.08447,56,2021-06-01,EMA,Sí,Automática,Lima,San Martin De Porres
+212605,San Mateo,Peru,PE,Lima,-11.76012,-76.30111,3156,2021-06-01,EHA,No,Automática,Huarochiri,San Mateo
+202905,San Mateo,Peru,PE,Lima,-11.76012,-76.30111,3156,2018-01-01,HLG,No,Convencional – tiempo real,Huarochiri,San Mateo
+111175,San Mateo De Huanchor,Peru,PE,Lima,-11.76017,-76.301,3155,2018-01-01,PLU,Sí,Convencional – tiempo real,Huarochiri,San Mateo
+472EC742,San Mateo De Otao,Peru,PE,Lima,-11.847,-76.56359,3506,2021-06-01,EMA,Sí,Automática,Huarochiri,San Mateo De Otao
+111291,San Mateo De Otao,Peru,PE,Lima,-11.847,-76.5636,3506,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,San Mateo De Otao
+151212,San Pedro De Pilas,Peru,PE,Lima,-12.4548,-76.22559,2690,2017-09-01,PLU,Sí,Convencional – tiempo diferido,Yauyos,San Pedro De Pilas
+112208,Santa Anita,Peru,PE,Lima,-12.04302,-76.97144,253,2020-05-01,EMA,Sí,Automática,Lima,Santa Anita
+47E330C4,Santa Cruz,Peru,PE,Lima,-11.19827,-76.63487,3583,2021-06-01,EMA,Sí,Automática,Huaral,Santa Cruz De Andamarca
+155202,Santa Cruz,Peru,PE,Lima,-11.19827,-76.63487,3583,2019-07-01,PLU,Sí,Convencional – tiempo diferido,Huaral,Santa Cruz De Andamarca
+472E24B0,Santa Eulalia,Peru,PE,Lima,-11.92,-76.66664,944,2021-06-01,EHMA,Sí,Automática,Huarochiri,Santa Eulalia
+202930,Santa Eulalia,Peru,PE,Lima,-11.91984,-76.66678,970,2018-02-01,HLM,No,Convencional – tiempo real,Huarochiri,Santa Eulalia
+155213,Santa Eulalia,Peru,PE,Lima,-11.92,-76.66664,970,2018-01-01,PLU,Sí,Convencional – tiempo real,Huarochiri,Santa Eulalia
+472CA750,Santiago De Tuna,Peru,PE,Lima,-11.9832,-76.5242,2926,2021-06-01,EMA,Sí,Automática,Huarochiri,Santiago De Tuna
+155224,Santiago De Tuna,Peru,PE,Lima,-11.9832,-76.5242,2926,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,Santiago De Tuna
+47E214D2,Santo Domingo,Peru,PE,Lima,-11.37,-77.02833,620,2021-06-01,EHMA,Sí,Automática,Huaral,Huaral
+202701,Santo Domingo,Peru,PE,Lima,-11.37009,-77.02823,620,2017-01-01,HLG,No,Convencional – tiempo real,Huaral,Huaral
+4724966C,Sayan,Peru,PE,Lima,-11.13472,-77.19833,647,2021-06-01,EHMA,Sí,Automática,Huaura,Sayan
+212301,Sayan,Peru,PE,Lima,-11.13476,-77.19832,645,2017-01-01,HLM,No,Convencional – tiempo real,Huaura,Sayan
+151213,Sheque,Peru,PE,Lima,-11.66095,-76.5023,3188,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huarochiri,Carampoma
+472191AC,Socsi,Peru,PE,Lima,-13.02825,-76.1945,310,2021-06-01,EHA,No,Automática,Cañete,Lunahuana
+203302,Socsi,Peru,PE,Lima,-13.0283,-76.19453,310,2017-01-01,HLG,No,Convencional – tiempo real,Cañete,Lunahuana
+006230,Socsi Cañete,Peru,PE,Lima,-13.03051,-76.20027,302,2017-01-01,PE,Depende,Convencional – tiempo real,Cañete,Lunahuana
+156106,Tanta,Peru,PE,Lima,-12.11667,-76.01667,4323,2019-01-01,PE,Depende,Convencional – tiempo diferido,Yauyos,Tanta
+111163,Unjf Sanchez Carrion - Huacho,Peru,PE,Lima,-11.12386,-77.60603,45,2017-06-01,CP,Sí,Convencional – tiempo real,Huaura,Huacho
+156111,Vilca,Peru,PE,Lima,-12.11457,-75.82617,3832,2018-05-01,PE,Depende,Convencional – tiempo diferido,Yauyos,Huancaya
+472A0766,Villa Maria Del Triunfo,Peru,PE,Lima,-12.16639,-76.92,292,2020-11-01,EMA,Sí,Automática,Lima,Villa Maria Del Triunfo
+472AC278,Von Humboldt,Peru,PE,Lima,-12.08221,-76.93944,247,2021-06-01,EMA,Sí,Automática,Lima,La Molina
+155450,Yauricocha,Peru,PE,Lima,-12.31478,-75.71209,4578,2019-10-01,PLU,Sí,Convencional – tiempo diferido,Yauyos,Alis
+000636,Yauyos,Peru,PE,Lima,-12.49173,-75.91039,2285,2017-06-01,CO,Sí,Convencional – tiempo real,Yauyos,Colonia
+000543,Ñaña,Peru,PE,Lima,-11.98744,-76.84194,543,2018-02-01,CO,Sí,Convencional – tiempo real,Lima,Lurigancho
+111290,Ñaña,Peru,PE,Lima,-11.98744,-76.84194,553,2021-05-01,EMA,Sí,Automática,Lima,Lurigancho
+000154,Amazonas,Peru,PE,Loreto,-3.76397,-73.25492,113,2021-03-01,CO,Sí,Convencional – tiempo diferido,Maynas,Iquitos
+103065,Amazonas,Peru,PE,Loreto,-3.76397,-73.25492,106,2024-12-01,EMA,Sí,Automática,Maynas,Belen
+240503,Amazonas,Peru,PE,Loreto,-3.76668,-73.25308,86,2023-08-01,HLM,No,Convencional – tiempo diferido,Maynas,Belen
+000269,Angamos,Peru,PE,Loreto,-5.1498,-72.8771,101,2021-04-01,CO,Sí,Convencional – tiempo diferido,Requena,Yaquerana
+240401,Angamos,Peru,PE,Loreto,-5.1512,-72.8752,96,2019-05-01,HLM,No,Convencional – tiempo diferido,Requena,Yaquerana
+152406,Bagazan,Peru,PE,Loreto,-4.724,-73.5321,100,2019-12-01,PE,Depende,Convencional – tiempo diferido,Requena,Saquena
+240111,Bellavista,Peru,PE,Loreto,-3.4786,-73.068,91,2019-09-01,HLM,No,Convencional – tiempo diferido,Maynas,Mazan
+220107,Borja,Peru,PE,Loreto,-4.47,-77.548,152,2021-03-01,HLM,No,Convencional – tiempo diferido,Alto Amazonas,Manseriche
+000270,Borja,Peru,PE,Loreto,-4.4696,-77.5483,164,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Datem Del Marañon,Manseriche
+152402,Bretaña,Peru,PE,Loreto,-5.2539,-74.3444,105,2020-06-01,PE,Depende,Convencional – tiempo diferido,Requena,Puinahua
+000291,Caballococha,Peru,PE,Loreto,-3.9112,-70.5119,75,2017-01-01,CO,Sí,Convencional – tiempo real,Mariscal Ramon Castilla,Ramon Castilla
+4727547C,Caballococha,Peru,PE,Loreto,-3.91125,-70.51206,107,2021-06-01,EMA,Sí,Automática,Mariscal Ramon Castilla,Ramon Castilla
+000387,Contamana,Peru,PE,Loreto,-7.3526,-75.0064,157,2021-04-01,CO,Sí,Convencional – tiempo diferido,Ucayali,Contamana
+47287402,Contamana,Peru,PE,Loreto,-7.35254,-75.00632,185,2012-07-01,EAMA,Sí,Automática,Ucayali,Contamana
+251102,Contamana,Peru,PE,Loreto,-7.3518,-75.0109,134,2019-01-01,HLM,No,Convencional – tiempo diferido,Ucayali,Contamana
+000110,El Estrecho,Peru,PE,Loreto,-2.4467,-72.6643,110,2020-12-01,CO,Sí,Convencional – tiempo diferido,Putumayo,Putumayo
+240402,El Estrecho,Peru,PE,Loreto,-2.453,-72.6812,105,2015-04-01,HLM,No,Convencional – tiempo diferido,Putumayo,Putumayo
+47252718,Enapu Peru,Peru,PE,Loreto,-3.72722,-73.23694,126,2021-06-01,EHMA,Sí,Automática,Maynas,Punchana
+240102,Enapu Peru,Peru,PE,Loreto,-3.72722,-73.23694,126,2017-06-01,HLM,No,Convencional – tiempo diferido,Maynas,Punchana
+251100,Flor De Punga,Peru,PE,Loreto,-5.4077,-74.1569,103,2018-11-01,HLM,No,Convencional – tiempo diferido,Requena,Capelo
+152405,Flor De Punga,Peru,PE,Loreto,-5.4055,-74.1591,105,2021-03-01,PE,Depende,Convencional – tiempo diferido,Requena,Capelo
+151500,Francisco Orellana,Peru,PE,Loreto,-3.42333,-72.76667,137,2017-07-01,CO,Sí,Convencional – tiempo real,Maynas,Las Amazonas
+000281,Genaro Herrera,Peru,PE,Loreto,-4.91003,-73.66944,103,2017-01-01,CP,Sí,Convencional – tiempo real,Requena,Jenaro Herrera
+251104,Genaro Herrera,Peru,PE,Loreto,-4.902,-73.6715,97,2019-11-01,HLM,No,Convencional – tiempo diferido,Requena,Jenaro Herrera
+101004,Gueppi,Peru,PE,Loreto,-0.1172,-75.2503,199,2023-09-01,EMA,Sí,Automática,Putumayo,Teniente Manuel Clavero
+240112,La Libertad,Peru,PE,Loreto,-3.4863,-73.2339,100,2019-12-01,HLM,No,Convencional – tiempo diferido,Maynas,Mazan
+150207,La Libertad,Peru,PE,Loreto,-3.4863,-73.2337,100,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Maynas,Mazan
+230603,Lagunas,Peru,PE,Loreto,-5.2171,-75.6679,118,2017-01-01,HLM,No,Convencional – tiempo real,Alto Amazonas,Lagunas
+152304,Lagunas,Peru,PE,Loreto,-5.2194,-75.6661,120,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Alto Amazonas,Lagunas
+150201,Maniti,Peru,PE,Loreto,-3.5203,-72.8409,125,2020-04-01,PE,Depende,Convencional – tiempo diferido,Maynas,Indiana
+000150,Mazan,Peru,PE,Loreto,-3.48817,-73.08182,96,2017-01-01,CP,Sí,Convencional – tiempo real,Maynas,Mazan
+000153,Moralillo,Peru,PE,Loreto,-3.89967,-73.33833,106,2019-11-01,CP,Sí,Convencional – tiempo diferido,Maynas,San Juan Bautista
+000279,Nauta,Peru,PE,Loreto,-4.51336,-73.58375,101,2019-01-01,CO,Sí,Convencional – tiempo real,Loreto,Nauta
+221402,Nauta,Peru,PE,Loreto,-4.5146,-73.5831,92,2018-12-01,HLM,No,Convencional – tiempo diferido,Loreto,Nauta
+000180,Pebas,Peru,PE,Loreto,-3.3188,-71.8588,102,2017-01-01,CO,Sí,Convencional – tiempo real,Mariscal Ramon Castilla,Pebas
+47288486,Pebas,Peru,PE,Loreto,-3.31791,-71.85962,101,2021-06-01,EAMA,Sí,Automática,Mariscal Ramon Castilla,Pebas
+240502,Puente Itaya,Peru,PE,Loreto,-4.22513,-73.48251,99,2023-08-01,HLM,No,Convencional – tiempo diferido,Maynas,San Juan Bautista
+240005,Puerto Alegria,Peru,PE,Loreto,-4.11491,-70.05391,74,2026-10-01,HLM,No,Convencional – tiempo diferido,Mariscal Ramon Castilla,Yavari
+000152,Puerto Almendra,Peru,PE,Loreto,-3.8286,-73.377,96,2017-01-01,CO,Sí,Convencional – tiempo real,Maynas,San Juan Bautista
+240302,Puerto Almendra,Peru,PE,Loreto,-3.82743,-73.37741,95,2019-12-01,HLM,No,Convencional – tiempo diferido,Maynas,San Juan Bautista
+150208,Punchana,Peru,PE,Loreto,-3.6903,-73.2556,91,2019-01-01,PE,Depende,Convencional – tiempo real,Maynas,Punchana
+000280,Requena,Peru,PE,Loreto,-5.04308,-73.83612,109,2021-04-01,CO,Sí,Convencional – tiempo diferido,Requena,Requena
+250101,Requena,Peru,PE,Loreto,-5.0411,-73.84,96,2019-02-01,HLM,No,Convencional – tiempo diferido,Requena,Requena
+152102,San Lorenzo,Peru,PE,Loreto,-4.82954,-76.55477,134,2018-03-01,CO,Sí,Convencional – tiempo real,Alto Amazonas,Barranca
+220108,San Lorenzo,Peru,PE,Loreto,-4.8322,-76.5554,133,2018-03-01,HLM,No,Convencional – tiempo real,Alto Amazonas,Barranca
+104112,San Regis,Peru,PE,Loreto,-4.51301,-73.90751,101,2025-09-01,EMA,Sí,Automática,Loreto,Nauta
+220105,San Regis,Peru,PE,Loreto,-4.5132,-73.9076,96,2020-05-01,HLM,No,Convencional – tiempo diferido,Loreto,Nauta
+150212,San Regis,Peru,PE,Loreto,-4.51301,-73.90751,101,2021-04-01,PE,Depende,Convencional – tiempo diferido,Loreto,Nauta
+000176,San Roque,Peru,PE,Loreto,-3.78667,-73.29333,106,2021-05-01,CP,Sí,Convencional – tiempo diferido,Maynas,San Juan Bautista
+000177,Santa Clotilde,Peru,PE,Loreto,-2.48757,-73.67919,118,2020-10-01,CO,Sí,Convencional – tiempo diferido,Maynas,Napo
+240110,Santa Clotilde,Peru,PE,Loreto,-2.487,-73.679,113,2019-08-01,HLM,No,Convencional – tiempo diferido,Maynas,Napo
+240109,Santa Cruz,Peru,PE,Loreto,-3.51725,-73.15411,95,2019-12-01,HLM,No,Convencional – tiempo diferido,Maynas,Mazan
+150206,Santa Cruz,Peru,PE,Loreto,-3.5169,-73.1526,95,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Maynas,Mazan
+240001,Santa Maria De Nanay,Peru,PE,Loreto,-3.8891,-73.6961,94,2019-03-01,HLM,No,Convencional – tiempo diferido,Maynas,Alto Nanay
+152401,Santa Rita De Castilla,Peru,PE,Loreto,-4.5922,-74.3806,104,2021-04-01,PE,Depende,Convencional – tiempo diferido,Loreto,Parinari
+240108,Santa Rosa,Peru,PE,Loreto,-4.2242,-69.9535,63,2020-01-01,HLM,No,Convencional – tiempo diferido,Mariscal Ramon Castilla,Yavari
+150209,Santa Rosa,Peru,PE,Loreto,-4.22636,-69.95629,62,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Mariscal Ramon Castilla,Yavari
+240304,Santo Tomas Punchana,Peru,PE,Loreto,-3.69279,-73.25625,86,2020-01-01,HLM,No,Convencional – tiempo diferido,Maynas,Punchana
+240106,Seda Loreto,Peru,PE,Loreto,-3.7528,-73.281,126,2018-10-01,HLM,No,Convencional – tiempo diferido,Maynas,San Juan Bautista
+153315,Shanusi,Peru,PE,Loreto,-6.06703,-76.2505,154,2021-04-01,CO,Sí,Convencional – tiempo diferido,Alto Amazonas,Yurimaguas
+152403,Tamanco,Peru,PE,Loreto,-5.7921,-74.289,104,2019-10-01,PLU,Sí,Convencional – tiempo diferido,Requena,Emilio San Martin
+000172,Tamshiyacu,Peru,PE,Loreto,-4.00356,-73.16112,94,2017-01-01,CO,Sí,Convencional – tiempo real,Maynas,Fernando Lores
+240103,Tamshiyacu,Peru,PE,Loreto,-4.00316,-73.1614,94,2017-01-01,HLM,No,Convencional – tiempo real,Maynas,Fernando Lores
+240202,Timicurillo,Peru,PE,Loreto,-3.5237,-73.0834,85,2018-02-01,HLM,No,Convencional – tiempo diferido,Maynas,Indiana
+260700,Bilingursth,Peru,PE,Madre de Dios,-12.56083,-69.18949,198,2024-07-01,EHMA,Sí,Automática,Tambopata,Tambopata
+260403,Cachuela,Peru,PE,Madre de Dios,-12.60442,-69.18304,195,2024-07-01,EHMA,Sí,Automática,Tambopata,Tambopata
+000590,Iñapari,Peru,PE,Madre de Dios,-10.95589,-69.578,244,2017-03-01,CO,Sí,Convencional – tiempo real,Tahuamanu,Iñapari
+472587E0,Iñapari,Peru,PE,Madre de Dios,-10.95589,-69.578,245,2021-06-01,EAMA,Sí,Automática,Tahuamanu,Iñapari
+47E8336C,Malinowsky,Peru,PE,Madre de Dios,-12.93411,-69.5175,220,2021-03-01,EMA,Sí,Automática,Tambopata,Inambari
+260402,Puente Herrera,Peru,PE,Madre de Dios,-12.61361,-69.19413,203,2024-07-01,EHMA,Sí,Automática,Tambopata,Tambopata
+113251,Puente Inambari,Peru,PE,Madre de Dios,-13.18638,-70.38401,374,2021-11-01,HLM,No,Convencional – tiempo diferido,Manu,Huepetuhe
+000808,Puerto Maldonado,Peru,PE,Madre de Dios,-12.5873,-69.2088,209,2017-01-01,CP,Sí,Convencional – tiempo real,Tambopata,Tambopata
+112279,Puerto Maldonado,Peru,PE,Madre de Dios,-12.5873,-69.2088,209,2024-12-01,EMA,Sí,Automática,Tambopata,Tambopata
+47E8201A,Salvacion,Peru,PE,Madre de Dios,-12.8312,-71.36446,531,2021-04-01,EMA,Sí,Automática,Manu,Manu
+260002,Tambopata,Peru,PE,Madre de Dios,-12.5925,-69.17529,198,2024-07-01,EHA,No,Automática,Tambopata,Tambopata
+158308,Calacoa,Peru,PE,Moquegua,-16.73988,-70.68765,3421,2017-07-01,CO,Sí,Convencional – tiempo real,Mariscal Nieto,San Cristobal
+000873,Carumas,Peru,PE,Moquegua,-16.8115,-70.6954,3055,2017-01-01,CO,Sí,Convencional – tiempo real,Mariscal Nieto,Carumas
+158310,Ichuña,Peru,PE,Moquegua,-16.14109,-70.5427,3778,2021-03-01,CO,Sí,Convencional – tiempo diferido,General Sanchez Cerro,Ichuña
+000840,Ilo,Peru,PE,Moquegua,-17.62381,-71.27188,60,2017-01-01,CO,Sí,Convencional – tiempo real,Ilo,El Algarrobal
+000806,Moquegua,Peru,PE,Moquegua,-17.17875,-70.93269,1440,2017-01-01,CP,Sí,Convencional – tiempo real,Mariscal Nieto,Moquegua
+4723F1BE,Moquegua,Peru,PE,Moquegua,-17.17874,-70.93267,1440,2021-06-01,EMA,Sí,Automática,Mariscal Nieto,Moquegua
+000850,Omate,Peru,PE,Moquegua,-16.67531,-70.97925,2130,2018-06-01,CO,Sí,Convencional – tiempo real,General Sanchez Cerro,Omate
+214700,Otora,Peru,PE,Moquegua,-17.0073,-70.8536,2575,2020-03-01,HLG,No,Convencional – tiempo diferido,Mariscal Nieto,Torata
+158302,Otora,Peru,PE,Moquegua,-17.0041,-70.8504,2598,2020-03-01,PLU,Sí,Convencional – tiempo diferido,Mariscal Nieto,Torata
+158309,Pampa Umalzo (Titijones),Peru,PE,Moquegua,-16.8439,-70.5494,4245,2019-07-01,CO,Sí,Convencional – tiempo diferido,Mariscal Nieto,Carumas
+000846,Punta Coles,Peru,PE,Moquegua,-17.69862,-71.37331,25,2017-01-01,CO,Sí,Convencional – tiempo real,Ilo,Ilo
+000848,Puquina,Peru,PE,Moquegua,-16.62978,-71.18476,3109,2017-01-01,CO,Sí,Convencional – tiempo real,General Sanchez Cerro,Puquina
+158301,Quinistaquillas,Peru,PE,Moquegua,-16.74971,-70.87858,1765,2018-06-01,CO,Sí,Convencional – tiempo real,General Sanchez Cerro,Quinistaquillas
+204804,Tumilaca,Peru,PE,Moquegua,-17.12838,-70.83689,1929,2017-06-01,HLG,No,Convencional – tiempo real,Mariscal Nieto,Torata
+158314,Tumilaca,Peru,PE,Moquegua,-17.1277,-70.8369,1944,2021-02-01,PLU,Sí,Convencional – tiempo diferido,Mariscal Nieto,Samegua
+000851,Ubinas,Peru,PE,Moquegua,-16.3888,-70.8541,3381,2017-01-01,CO,Sí,Convencional – tiempo real,General Sanchez Cerro,Ubinas
+000852,Yacango,Peru,PE,Moquegua,-17.09078,-70.86699,2191,2018-02-01,CO,Sí,Convencional – tiempo real,Mariscal Nieto,Torata
+110137,12 De Octubre,Peru,PE,Pasco,-10.60641,-76.52927,3848,2021-06-01,EAMA,Sí,Automática,Daniel Alcides Carrion,Yanahuanca
+000593,Cerro De Pasco,Peru,PE,Pasco,-10.69341,-76.26421,4357,2017-01-01,CO,Sí,Convencional – tiempo real,Pasco,Chaupimarca
+110149,Entaz,Peru,PE,Pasco,-10.79755,-75.27796,,2026-10-01,EMA,Sí,Automática,,
+250503,Entaz,Peru,PE,Pasco,-10.72244,-75.26238,1510,2023-09-01,HLM,No,Convencional – tiempo diferido,Oxapampa,Villa Rica
+000557,Oxapampa,Peru,PE,Pasco,-10.5642,-75.4184,1801,2017-01-01,CO,Sí,Convencional – tiempo real,Oxapampa,Chontabamba
+4725D79C,Oxapampa,Peru,PE,Pasco,-10.59417,-75.38417,1850,2021-06-01,EMA,Sí,Automática,Oxapampa,Huancabamba
+109093,Puerto Bermudez,Peru,PE,Pasco,-10.28619,-74.94356,253,2020-09-01,EAMA,Sí,Automática,Oxapampa,Puerto Bermudez
+110142,San Jose De Villa Rica,Peru,PE,Pasco,-10.75108,-75.29874,1682,2021-10-01,EAMA,Sí,Automática,Oxapampa,Villa Rica
+000475,Yanahuanca,Peru,PE,Pasco,-10.4896,-76.5129,3137,2017-01-01,CO,Sí,Convencional – tiempo real,Daniel Alcides Carrion,Yanahuanca
+47E0D438,Alamor,Peru,PE,Piura,-4.47749,-80.39788,116,2021-06-01,EHA,No,Automática,Sullana,Lancones
+200322,Alamor,Peru,PE,Piura,-4.47401,-80.39915,127,2021-05-01,HLM,No,Convencional – tiempo diferido,Sullana,Lancones
+152153,Alamor,Peru,PE,Piura,-4.47749,-80.3979,124,2019-12-01,PLU,Sí,Convencional – tiempo diferido,Sullana,Lancones
+104097,Alto De Poclus,Peru,PE,Piura,-4.9169,-79.89047,3080,2017-01-01,CP,Sí,Convencional – tiempo real,Ayabaca,Frias
+104114,Alto De Poclus,Peru,PE,Piura,-4.91691,-79.89052,3080,2025-10-01,EMA,Sí,Automática,Ayabaca,Frias
+000237,Ayabaca,Peru,PE,Piura,-4.63776,-79.71077,2648,2015-02-01,CP,Sí,Convencional – tiempo real,Ayabaca,Ayabaca
+152100,Bernal,Peru,PE,Piura,-5.4545,-80.74262,11,2017-07-01,CO,Sí,Convencional – tiempo real,Sechura,Bernal
+105144,Bernal,Peru,PE,Piura,-5.45449,-80.74262,11,2025-10-01,EMA,Sí,Automática,Sechura,Bernal
+47E0E1A2,Bocatoma Chipillico,Peru,PE,Piura,-4.7142,-80.11825,340,2021-06-01,EHA,No,Automática,Piura,Las Lomas
+4723C424,Bocatoma Zamba,Peru,PE,Piura,-4.66444,-79.89735,,2026-10-01,EHA,No,Automática,,
+472F86B2,Canchaque,Peru,PE,Piura,-5.40055,-79.6052,1270,2020-11-01,EMA,Sí,Automática,Huancabamba,San Miguel De El Faique
+152112,Chalaco,Peru,PE,Piura,-5.03865,-79.79168,2290,2017-02-01,CP,Sí,Convencional – tiempo real,Morropon,Chalaco
+472FB328,Chalaco,Peru,PE,Piura,-5.03389,-79.83,2290,2021-04-01,EMA,Sí,Automática,Morropon,Chalaco
+000255,Chulucanas,Peru,PE,Piura,-5.10843,-80.16956,89,2017-03-01,CO,Sí,Convencional – tiempo real,Morropon,Chulucanas
+472F6540,Chulucanas,Peru,PE,Piura,-5.10844,-80.16954,89,2021-06-01,EMA,Sí,Automática,Morropon,Chulucanas
+000231,Chusis,Peru,PE,Piura,-5.52756,-80.81275,8,2017-01-01,CO,Sí,Convencional – tiempo real,Sechura,Sechura
+105120,Chusis,Peru,PE,Piura,-5.51694,-80.83361,10,2021-05-01,EMA,Sí,Automática,Sechura,Sechura
+47E037CA,Corral Del Medio,Peru,PE,Piura,-5.18871,-79.89148,212,2021-06-01,EHA,No,Automática,Morropon,Buenos Aires
+000209,El Alto,Peru,PE,Piura,-4.26198,-81.21815,295,2017-01-01,CO,Sí,Convencional – tiempo real,Talara,El Alto
+104109,El Chira,Peru,PE,Piura,-4.85519,-80.73433,49,2023-06-01,EAMA,Sí,Automática,Sullana,Marcavelica
+47E9177A,El Ciruelo,Peru,PE,Piura,-4.29899,-80.1673,225,2021-05-01,EHA,No,Automática,Ayabaca,Suyo
+472F50DA,El Virrey,Peru,PE,Piura,-5.53579,-79.98416,211,2021-03-01,EMA,Sí,Automática,Lambayeque,Olmos
+152107,El Virrey,Peru,PE,Piura,-5.5337,-79.98233,208,2019-01-01,PLU,Sí,Convencional – tiempo real,Lambayeque,Olmos
+47E074C0,Hacienda Barrios,Peru,PE,Piura,-5.2895,-79.69909,303,2021-06-01,EHA,No,Automática,Morropon,San Juan De Bigote
+472F95C4,Hacienda Bigote,Peru,PE,Piura,-5.32089,-79.78569,198,2020-10-01,EMA,Sí,Automática,Morropon,San Juan De Bigote
+152111,Hacienda Bigote,Peru,PE,Piura,-5.3209,-79.7857,198,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Morropon,San Juan De Bigote
+152128,Hacienda Shumaya,Peru,PE,Piura,-5.36492,-79.36056,1975,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huancabamba,Sondor
+47E281B0,Hualcuy,Peru,PE,Piura,-4.74701,-79.60729,1988,2021-06-01,EMA,Sí,Automática,Ayabaca,Ayabaca
+000239,Huancabamba,Peru,PE,Piura,-5.24681,-79.45399,1959,2017-01-01,CP,Sí,Convencional – tiempo real,Huancabamba,Huancabamba
+472FE354,Huancabamba,Peru,PE,Piura,-5.24681,-79.45399,1959,2021-03-01,EMA,Sí,Automática,Huancabamba,Huancabamba
+000248,Huarmaca,Peru,PE,Piura,-5.56479,-79.51975,2232,2017-01-01,CO,Sí,Convencional – tiempo real,Huancabamba,Huarmaca
+472761E6,Huarmaca,Peru,PE,Piura,-5.56586,-79.52544,2171,2021-06-01,EAMA,Sí,Automática,Huancabamba,Huarmaca
+47E09732,La Ardilla,Peru,PE,Piura,-4.49094,-80.38819,134,2021-06-01,EHA,No,Automática,Sullana,Lancones
+000230,La Esperanza,Peru,PE,Piura,-4.92114,-81.05969,7,2017-01-01,CP,Sí,Convencional – tiempo real,Paita,Colan
+47E0F2D4,Lagartera,Peru,PE,Piura,-4.7285,-80.06956,461,2021-03-01,EHA,No,Automática,Piura,Las Lomas
+152103,Lancones,Peru,PE,Piura,-4.64288,-80.54717,136,2017-07-01,CO,Sí,Convencional – tiempo real,Sullana,Lancones
+472FD6CE,Lancones,Peru,PE,Piura,-4.6429,-80.54716,136,2021-06-01,EMA,Sí,Automática,Sullana,Lancones
+002122,Malacasi,Peru,PE,Piura,-5.33977,-79.85794,153,2017-01-01,CP,Sí,Convencional – tiempo real,Morropon,Salitral
+472FA05E,Malacasi,Peru,PE,Piura,-5.33977,-79.85794,153,2021-06-01,EMA,Sí,Automática,Morropon,Salitral
+000208,Mallares,Peru,PE,Piura,-4.85574,-80.73556,44,2017-01-01,CP,Sí,Convencional – tiempo real,Sullana,Marcavelica
+105112,Miraflores,Peru,PE,Piura,-5.17528,-80.61654,34,2021-05-01,EMA,Sí,Automática,Piura,Castilla
+000207,Miraflores,Peru,PE,Piura,-5.17528,-80.61654,34,2019-03-01,MAP,Sí,Convencional – tiempo diferido,Piura,Castilla
+000235,Morropon,Peru,PE,Piura,-5.19465,-79.97107,128,2017-01-01,CO,Sí,Convencional – tiempo real,Morropon,Morropon
+472F7636,Morropon,Peru,PE,Piura,-5.19465,-79.97107,128,2021-06-01,EMA,Sí,Automática,Morropon,Morropon
+472FC5B8,Paimas,Peru,PE,Piura,-4.63439,-79.94581,603,2021-06-01,EMA,Sí,Automática,Ayabaca,Paimas
+152101,Pananga,Peru,PE,Piura,-4.51556,-80.73945,360,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Sullana,Marcavelica
+000216,Partidor,Peru,PE,Piura,-4.73197,-80.27982,218,2017-01-01,CO,Sí,Convencional – tiempo real,Piura,Las Lomas
+104113,Partidor,Peru,PE,Piura,-4.73197,-80.27978,218,2025-10-01,EMA,Sí,Automática,Piura,Las Lomas
+152132,Porculla,Peru,PE,Piura,-5.83964,-79.50572,2142,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huancabamba,Huarmaca
+47E0C74E,Puente Macara,Peru,PE,Piura,-4.39338,-79.96412,385,2021-06-01,EHA,No,Automática,Ayabaca,Suyo
+47E0B1DE,Puente Simon Rodriguez,Peru,PE,Piura,-4.87999,-81.02038,12,2021-06-01,EHA,No,Automática,Paita,Amotape
+000203,Salala,Peru,PE,Piura,-5.11153,-79.46349,2974,2019-02-01,CP,Sí,Convencional – tiempo real,Huancabamba,El Carmen De La Frontera
+47E067B6,Salitral,Peru,PE,Piura,-5.34602,-79.83761,156,2021-06-01,EHA,No,Automática,Morropon,Salitral
+105143,San Miguel,Peru,PE,Piura,-5.24619,-80.68425,24,2024-11-01,EMA,Sí,Automática,Piura,Catacaos
+000247,San Miguel,Peru,PE,Piura,-5.2462,-80.68436,24,2017-01-01,MAP,Sí,Convencional – tiempo real,Piura,Catacaos
+47E08444,San Pedro,Peru,PE,Piura,-5.07954,-80.0162,240,2021-05-01,EHA,No,Automática,Morropon,Morropon
+200415,San Pedro,Peru,PE,Piura,-5.0796,-80.01624,236,2017-08-01,HLG,No,Convencional – tiempo real,Morropon,Morropon
+150001,San Pedro,Peru,PE,Piura,-5.07954,-80.01621,236,2017-08-01,PLU,Sí,Convencional – tiempo real,Morropon,Morropon
+002110,Santo Domingo,Peru,PE,Piura,-5.03825,-79.87049,1490,2017-01-01,CO,Sí,Convencional – tiempo real,Morropon,Santo Domingo
+472FF022,Sapillica,Peru,PE,Piura,-4.79639,-79.99972,1406,2020-11-01,EMA,Sí,Automática,Ayabaca,Sapillica
+152106,Sapillica,Peru,PE,Piura,-4.77817,-79.98178,1451,2019-05-01,PLU,Sí,Convencional – tiempo real,Ayabaca,Sapillica
+152126,Sondorillo,Peru,PE,Piura,-5.3398,-79.43137,1917,2018-02-01,CO,Sí,Convencional – tiempo real,Huancabamba,Sondorillo
+220509,Sondorillo,Peru,PE,Piura,-5.33922,-79.41575,1702,2017-10-01,HLM,No,Convencional – tiempo diferido,Huancabamba,Sondorillo
+47E0522C,Tambo Grande,Peru,PE,Piura,-4.93848,-80.34703,60,2021-06-01,EHA,No,Automática,Piura,Tambo Grande
+152127,Tuluce,Peru,PE,Piura,-5.47718,-79.34742,2209,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huancabamba,Sondor
+000826,Ananea,Peru,PE,Puno,-14.6763,-69.5339,4660,2017-01-01,CO,Sí,Convencional – tiempo real,San Antonio De Putina,Ananea
+114134,Anansaya -Puna,Peru,PE,Puno,-14.33386,-70.52334,4306,2025-08-01,EMA,Sí,Automática,Melgar,Nuñoa
+000783,Arapa,Peru,PE,Puno,-15.1786,-70.109,3837,2017-01-01,CO,Sí,Convencional – tiempo real,Azangaro,Arapa
+000776,Ayaviri,Peru,PE,Puno,-14.8688,-70.5916,3941,2017-01-01,CO,Sí,Convencional – tiempo real,Melgar,Ayaviri
+4721AAE4,Aymaña,Peru,PE,Puno,-13.87279,-70.66759,4175,2021-06-01,EMA,Sí,Automática,Carabaya,Corani
+000781,Azangaro,Peru,PE,Puno,-14.9172,-70.19046,3857,2017-01-01,CO,Sí,Convencional – tiempo real,Azangaro,Azangaro
+000780,Cabanillas,Peru,PE,Puno,-15.63911,-70.34661,3885,2018-03-01,CO,Sí,Convencional – tiempo real,San Roman,Cabanillas
+115156,Cabanillas,Peru,PE,Puno,-15.63909,-70.34661,3888,2025-10-01,EMA,Sí,Automática,Lampa,Cabanilla
+116075,Callacame,Peru,PE,Puno,-16.57225,-69.31697,3862,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Chucuito,Huacullani
+115152,Camacani,Peru,PE,Puno,-15.94981,-69.85875,3859,2023-06-01,EAMA,Sí,Automática,Puno,Plateria
+000788,Capachica,Peru,PE,Puno,-15.61344,-69.84222,3822,2017-01-01,CO,Sí,Convencional – tiempo real,Puno,Capachica
+158326,Capazo,Peru,PE,Puno,-17.1827,-69.7391,4423,2019-07-01,CO,Sí,Convencional – tiempo diferido,El Collao,Capaso
+117060,Chuapalca Alternativa Alta,Peru,PE,Puno,-17.28727,-69.6435,4185,2020-11-01,HLM,No,Convencional – tiempo diferido,Tarata,Tarata
+000764,Chuquibambilla,Peru,PE,Puno,-14.7879,-70.7285,3918,2021-04-01,CP,Sí,Convencional – tiempo diferido,Melgar,Umachiri
+000827,Cojata,Peru,PE,Puno,-15.0118,-69.3612,4347,2021-04-01,CO,Sí,Convencional – tiempo diferido,Huancane,Cojata
+007415,Crucero,Peru,PE,Puno,-14.36419,-70.02592,4128,2017-01-01,CO,Sí,Convencional – tiempo real,Carabaya,Crucero
+000803,Crucero Alto,Peru,PE,Puno,-15.7643,-70.9113,4521,2017-06-01,CO,Sí,Convencional – tiempo real,Lampa,Santa Lucia
+157418,Cuyo Cuyo,Peru,PE,Puno,-14.4888,-69.55,3619,2021-04-01,CO,Sí,Convencional – tiempo diferido,Sandia,Cuyocuyo
+000883,Desaguadero,Peru,PE,Puno,-16.56327,-69.03682,3833,2019-05-01,CO,Sí,Convencional – tiempo diferido,Chucuito,Desaguadero
+270001,Desaguadero,Peru,PE,Puno,-16.56364,-69.03667,3837,2024-11-01,EHA,No,Automática,Chucuito,Desaguadero
+47256412,Enafer,Peru,PE,Puno,-15.83647,-70.016,3810,2018-08-01,EHA,No,Automática,Puno,Puno
+000786,Huancane,Peru,PE,Puno,-15.20687,-69.7583,3842,2017-01-01,CO,Sí,Convencional – tiempo real,Huancane,Huancane
+210003,Huancasaya,Peru,PE,Puno,-15.14308,-69.21467,4238,2019-10-01,EHMA,Sí,Automática,Huancane,Cojata
+000787,Huaraya Moho,Peru,PE,Puno,-15.3881,-69.4842,3836,2017-01-01,CO,Sí,Convencional – tiempo real,Moho,Moho
+000879,Ilave,Peru,PE,Puno,-16.05994,-69.64039,3874,2018-10-01,CO,Sí,Convencional – tiempo real,El Collao,Ilave
+472E112A,Ilave,Peru,PE,Puno,-16.08825,-69.62592,3850,2020-12-01,EHMA,Sí,Automática,El Collao,Ilave
+115153,Illpa,Peru,PE,Puno,-15.6821,-70.07606,3827,2021-06-01,EAMA,Sí,Automática,Puno,Paucarcolla
+472E4156,Illpa,Peru,PE,Puno,-15.68726,-70.07988,3827,2021-06-01,EMA,Sí,Automática,Puno,Paucarcolla
+000817,Isla Soto,Peru,PE,Puno,-15.56221,-69.48898,3832,2021-04-01,CO,Sí,Convencional – tiempo diferido,Moho,Conima
+000822,Isla Suana,Peru,PE,Puno,-16.3299,-68.85034,3840,2021-04-01,CO,Sí,Convencional – tiempo diferido,Yunguyo,Anapia
+000818,Isla Taquile,Peru,PE,Puno,-15.77019,-69.69107,3837,2017-07-01,CO,Sí,Convencional – tiempo real,Puno,Amantani
+000880,Juli,Peru,PE,Puno,-16.20378,-69.45992,3830,2017-01-01,CO,Sí,Convencional – tiempo real,Chucuito,Juli
+007454,Juliaca,Peru,PE,Puno,-15.4441,-70.2078,3838,2021-04-01,CO,Sí,Convencional – tiempo diferido,San Roman,Juliaca
+472CF72C,Juliaca,Peru,PE,Puno,-15.47106,-70.17122,3826,2021-06-01,EMA,Sí,Automática,San Roman,Juliaca
+000779,Lampa,Peru,PE,Puno,-15.36109,-70.37415,3866,2017-01-01,CO,Sí,Convencional – tiempo real,Lampa,Lampa
+115157,Lampa,Peru,PE,Puno,-15.36296,-70.37343,3897,2025-10-01,EMA,Sí,Automática,Lampa,Lampa
+210405,Lampa,Peru,PE,Puno,-15.4437,-70.2092,3838,2021-06-01,HLM,No,Convencional – tiempo real,San Roman,Juliaca
+000889,Laraqueri,Peru,PE,Puno,-16.13599,-70.04587,3939,2017-01-01,CO,Sí,Convencional – tiempo real,Puno,Pichacani
+472CB426,Laraqueri,Peru,PE,Puno,-16.13592,-70.04589,3928,2021-06-01,EMA,Sí,Automática,Puno,Pichacani
+000825,Limbani,Peru,PE,Puno,-14.1397,-69.687,3242,2021-04-01,CO,Sí,Convencional – tiempo diferido,Sandia,Limbani
+260501,Limbani,Peru,PE,Puno,-14.1481,-69.6902,3320,2019-04-01,HLG,No,Convencional – tiempo diferido,Sandia,Limbani
+000761,Llally,Peru,PE,Puno,-14.95286,-70.88052,3985,2017-01-01,CO,Sí,Convencional – tiempo real,Melgar,Llalli
+000782,Los Uros,Peru,PE,Puno,-15.82039,-69.97413,3819,2017-01-01,CO,Sí,Convencional – tiempo real,Puno,Puno
+000777,Macusani,Peru,PE,Puno,-14.06674,-70.42205,4363,2017-01-01,CO,Sí,Convencional – tiempo real,Carabaya,Macusani
+114138,Macusani,Peru,PE,Puno,-14.06675,-70.42206,4385,2025-10-01,EMA,Sí,Automática,Carabaya,Macusani
+000878,Mazo Cruz,Peru,PE,Puno,-16.73888,-69.71544,3980,2017-06-01,CO,Sí,Convencional – tiempo real,El Collao,Santa Rosa
+000820,Mañazo,Peru,PE,Puno,-15.79944,-70.33949,3931,2017-01-01,CO,Sí,Convencional – tiempo real,Puno,Mañazo
+270500,Muelle Lago,Peru,PE,Puno,-15.83361,-70.01694,3819,2016-03-01,HLM,No,Convencional – tiempo diferido,Puno,Puno
+000785,Muñani,Peru,PE,Puno,-14.76694,-69.95181,3932,2017-01-01,CO,Sí,Convencional – tiempo real,Azangaro,Muñani
+472E37C6,Palca,Peru,PE,Puno,-15.2359,-70.59313,4067,2021-06-01,EMA,Sí,Automática,Lampa,Vilavila
+000762,Pampahuta,Peru,PE,Puno,-15.4837,-70.676,4311,2017-05-01,CO,Sí,Convencional – tiempo real,Lampa,Paratia
+472DE6A0,Pampahuta,Peru,PE,Puno,-15.48369,-70.67599,4311,2019-03-01,EMA,Sí,Automática,Lampa,Paratia
+000881,Pizacoma,Peru,PE,Puno,-16.9043,-69.3695,3930,2017-01-01,CO,Sí,Convencional – tiempo real,Chucuito,Pisacoma
+000778,Progreso,Peru,PE,Puno,-14.6717,-70.3678,3925,2021-04-01,CO,Sí,Convencional – tiempo diferido,Azangaro,Asillo
+000815,Pucara,Peru,PE,Puno,-15.04567,-70.36663,3877,2017-07-01,CO,Sí,Convencional – tiempo real,Lampa,Pucara
+210103,Puente Ayaviri,Peru,PE,Puno,-14.89249,-70.58544,3900,2015-03-01,HLM,No,Convencional – tiempo diferido,Melgar,Ayaviri
+270202,Puente Azangaro,Peru,PE,Puno,-14.92139,-70.18861,3851,2024-02-01,EHMA,Sí,Automática,Azangaro,Azangaro
+210102,Puente Azangaro,Peru,PE,Puno,-14.91975,-70.18936,3860,2017-01-01,HLG,No,Convencional – tiempo real,Azangaro,Azangaro
+210201,Puente Carretera Huancane,Peru,PE,Puno,-15.21588,-69.79262,3821,2017-01-01,HLG,No,Convencional – tiempo real,Huancane,Huancane
+47251282,Puente Carretera Ramis,Peru,PE,Puno,-15.25544,-69.87381,3812,2019-11-01,EHMA,Sí,Automática,Huancane,Huancane
+210101,Puente Carretera Ramis,Peru,PE,Puno,-15.2553,-69.8738,3825,2017-01-01,HLG,No,Convencional – tiempo real,Huancane,Taraco
+210301,Puente Ilave,Peru,PE,Puno,-16.0882,-69.6317,3840,2017-01-01,HLG,No,Convencional – tiempo real,El Collao,Ilave
+270700,Puente Internacional Desaguadero,Peru,PE,Puno,-16.5638,-69.0363,3831,2017-01-01,HLG,No,Convencional – tiempo real,Chucuito,Desaguadero
+210406,Puente Isla Cabanillas,Peru,PE,Puno,-15.4718,-70.224,3838,2021-05-01,HLM,No,Convencional – tiempo diferido,San Roman,Juliaca
+210407,Puente Unocolla Coata,Peru,PE,Puno,-15.45085,-70.19133,3835,2018-03-01,HLG,No,Convencional – tiempo real,San Roman,Juliaca
+210502,Puente Yorohoco Callacame,Peru,PE,Puno,-16.57065,-69.32278,3862,2017-01-01,HLG,No,Convencional – tiempo real,Chucuito,Kelluyo
+000708,Puno,Peru,PE,Puno,-15.82625,-70.01208,3825,2017-01-01,CP,Sí,Convencional – tiempo real,Puno,Puno
+472DD33A,Puno,Peru,PE,Puno,-15.82625,-70.01208,3812,2021-06-01,EMA,Sí,Automática,Puno,Puno
+157414,Putina,Peru,PE,Puno,-14.921,-69.8757,3861,2017-01-01,CO,Sí,Convencional – tiempo real,San Antonio De Putina,Putina
+157733,Ramis,Peru,PE,Puno,-15.2558,-69.8739,3826,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huancane,Taraco
+000821,Rincon De La Cruz,Peru,PE,Puno,-15.99017,-69.80961,3887,2017-09-01,CO,Sí,Convencional – tiempo real,Puno,Acora
+115154,Rincon De La Cruz,Peru,PE,Puno,-15.99019,-69.80958,3878,2023-06-01,EAMA,Sí,Automática,Puno,Acora
+270300,Rio Verde,Peru,PE,Puno,-15.68427,-70.60002,4041,2018-02-01,HLG,No,Convencional – tiempo real,Lampa,Santa Lucia
+156401,San Gaban,Peru,PE,Puno,-13.4609,-70.41,666,2020-03-01,CO,Sí,Convencional – tiempo real,Carabaya,San Gaban
+000865,Santa Lucia,Peru,PE,Puno,-15.6941,-70.5993,4045,2021-04-01,CO,Sí,Convencional – tiempo diferido,Lampa,Santa Lucia
+000823,Santa Rosa,Peru,PE,Puno,-14.6178,-70.79278,3957,2021-04-01,CO,Sí,Convencional – tiempo diferido,Melgar,Santa Rosa
+000882,Tahuaco - Yunguyo,Peru,PE,Puno,-16.30783,-69.07472,3888,2021-04-01,CO,Sí,Convencional – tiempo diferido,Yunguyo,Yunguyo
+000790,Tambopata,Peru,PE,Puno,-14.22529,-69.16178,1373,2021-01-01,CO,Sí,Convencional – tiempo diferido,Sandia,San Juan Del Oro
+000816,Taraco,Peru,PE,Puno,-15.31167,-69.97247,3828,2021-03-01,CO,Sí,Convencional – tiempo diferido,Huancane,Taraco
+4721B992,Upina,Peru,PE,Puno,-13.88492,-70.08281,3878,2021-06-01,EAMA,Sí,Automática,Carabaya,Corani
+270503,Zapatilla,Peru,PE,Puno,-16.1386,-69.5787,3846,2017-01-01,HLM,No,Convencional – tiempo real,El Collao,Ilave
+003308,Alao,Peru,PE,San Martín,-6.517,-76.73806,420,2017-01-01,CO,Sí,Convencional – tiempo real,El Dorado,San Martin
+000382,Bellavista,Peru,PE,San Martín,-7.05517,-76.55836,247,2017-01-01,CO,Sí,Convencional – tiempo real,Bellavista,Bellavista
+107142,Bellavista,Peru,PE,San Martín,-7.05517,-76.55836,247,2017-01-01,EMA,Sí,Automática,Bellavista,Bellavista
+221804,Biavo,Peru,PE,San Martín,-7.25497,-76.47778,263,2021-04-01,HLG,No,Convencional – tiempo diferido,Bellavista,Alto Biavo
+003304,Campanilla,Peru,PE,San Martín,-7.48434,-76.65311,316,2021-03-01,CO,Sí,Convencional – tiempo diferido,Mariscal Caceres,Campanilla
+153319,Chazuta,Peru,PE,San Martín,-6.57119,-76.1315,203,2017-01-01,CO,Sí,Convencional – tiempo real,San Martin,Chazuta
+221801,Cumbaza,Peru,PE,San Martín,-6.47251,-76.38199,282,2021-02-01,HLG,No,Convencional – tiempo diferido,San Martin,Morales
+153345,Cuzco-Biavo,Peru,PE,San Martín,-7.25442,-76.4771,258,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Bellavista,Alto Biavo
+153311,Cuñumbuque,Peru,PE,San Martín,-6.50825,-76.48075,230,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Lamas,Cuñumbuqui
+4723013A,El Porvenir,Peru,PE,San Martín,-6.58906,-76.31824,225,2021-06-01,EAMA,Sí,Automática,San Martin,Juan Guerra
+000310,El Porvenir,Peru,PE,San Martín,-6.58903,-76.31825,223,2017-01-01,MAP,Sí,Convencional – tiempo real,San Martin,Juan Guerra
+212600,Huayabamba,Peru,PE,San Martín,-7.2689,-76.73698,287,2017-06-01,EHA,No,Automática,Mariscal Caceres,Juanjui
+230504,Huayabamba,Peru,PE,San Martín,-7.26871,-76.73701,287,2017-06-01,HLG,No,Convencional – tiempo real,Mariscal Caceres,Juanjui
+153350,Huayabamba,Peru,PE,San Martín,-7.26356,-76.73494,285,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Mariscal Caceres,Juanjui
+153300,Jepelacio,Peru,PE,San Martín,-6.11275,-76.90761,1057,2017-01-01,CO,Sí,Convencional – tiempo real,Moyobamba,Jepelacio
+153225,Jose Olaya,Peru,PE,San Martín,-7.40711,-76.41389,282,2018-10-01,CO,Sí,Convencional – tiempo diferido,Bellavista,Alto Biavo
+000384,La Union,Peru,PE,San Martín,-7.16319,-76.49275,262,2021-03-01,CO,Sí,Convencional – tiempo diferido,Bellavista,Bajo Biavo
+000383,Lamas,Peru,PE,San Martín,-6.41874,-76.52794,840,2017-01-01,CO,Sí,Convencional – tiempo real,Lamas,Lamas
+000378,Moyobamba,Peru,PE,San Martín,-6.04481,-76.96822,879,2017-01-01,CO,Sí,Convencional – tiempo real,Moyobamba,Moyobamba
+000219,Naranjillo,Peru,PE,San Martín,-5.80964,-77.39264,880,2020-11-01,CO,Sí,Convencional – tiempo diferido,Rioja,Awajun
+4724851A,Naranjillo,Peru,PE,San Martín,-5.80962,-77.39321,882,2021-06-01,EAMA,Sí,Automática,Rioja,Nueva Cajamarca
+153312,Nuevo Lima,Peru,PE,San Martín,-7.09628,-76.47233,255,2020-02-01,CO,Sí,Convencional – tiempo diferido,Bellavista,Bajo Biavo
+110127,Pacayzapa,Peru,PE,San Martín,-6.2818,-76.76171,913,2021-03-01,CO,Sí,Convencional – tiempo diferido,Lamas,Tabalosos
+000379,Pachiza,Peru,PE,San Martín,-7.29322,-76.77092,286,2017-01-01,CO,Sí,Convencional – tiempo real,Mariscal Caceres,Pachiza
+153322,Pelejo,Peru,PE,San Martín,-6.21531,-75.8025,141,2021-04-01,CO,Sí,Convencional – tiempo diferido,San Martin,El Porvenir
+230715,Picota,Peru,PE,San Martín,-6.91949,-76.3272,214,2017-01-01,HLG,No,Convencional – tiempo real,Picota,Picota
+153313,Picota,Peru,PE,San Martín,-6.91989,-76.33022,220,2021-03-01,PLU,Sí,Convencional – tiempo diferido,Picota,Picota
+153316,Pilluana,Peru,PE,San Martín,-6.77631,-76.29056,208,2017-01-01,CO,Sí,Convencional – tiempo real,Picota,Pilluana
+105137,Playa Hermosa,Peru,PE,San Martín,-5.91616,-76.98719,1138,2023-06-01,EAMA,Sí,Automática,Moyobamba,Moyobamba
+003317,Pongo De Caynarachi,Peru,PE,San Martín,-6.33047,-76.28175,187,2017-01-01,CO,Sí,Convencional – tiempo real,Lamas,Caynarachi
+153320,Pucallpa - Huimbayoc,Peru,PE,San Martín,-6.45278,-75.84556,162,2021-01-01,PLU,Sí,Convencional – tiempo diferido,San Martin,Huimbayoc
+230700,Puente Tocache,Peru,PE,San Martín,-8.18475,-76.50789,483,2017-01-01,HLG,No,Convencional – tiempo real,Tocache,Tocache
+000377,Rioja,Peru,PE,San Martín,-6.04728,-77.17197,823,2017-01-01,CO,Sí,Convencional – tiempo real,Rioja,Rioja
+153314,San Antonio,Peru,PE,San Martín,-6.41274,-76.4072,467,2021-04-01,CO,Sí,Convencional – tiempo diferido,San Martin,San Antonio
+153307,San Pablo,Peru,PE,San Martín,-6.80956,-76.57625,270,2017-01-01,CO,Sí,Convencional – tiempo real,Bellavista,San Pablo
+000211,Saposoa,Peru,PE,San Martín,-6.94313,-76.76823,307,2017-01-01,CO,Sí,Convencional – tiempo real,Huallaga,Saposoa
+221813,Shamboyacu,Peru,PE,San Martín,-7.02302,-76.12952,306,2017-11-01,HLG,No,Convencional – tiempo real,Picota,Shamboyacu
+153326,Shamboyacu,Peru,PE,San Martín,-7.0223,-76.12911,318,2017-11-01,PLU,Sí,Convencional – tiempo real,Picota,Shamboyacu
+221802,Shanao,Peru,PE,San Martín,-6.41291,-76.60001,279,2018-08-01,HLG,No,Convencional – tiempo diferido,Lamas,Shanao
+153328,Shanao,Peru,PE,San Martín,-6.41312,-76.60028,280,2018-08-01,PLU,Sí,Convencional – tiempo diferido,Lamas,Shanao
+153226,Soritor,Peru,PE,San Martín,-6.142,-77.09179,852,2017-01-01,CO,Sí,Convencional – tiempo real,Moyobamba,Soritor
+000322,Tabalosos,Peru,PE,San Martín,-6.39533,-76.62533,486,2017-01-01,CO,Sí,Convencional – tiempo real,Lamas,Tabalosos
+000446,Tananta,Peru,PE,San Martín,-8.11524,-76.58049,480,2017-09-01,CP,Sí,Convencional – tiempo real,Tocache,Polvora
+000401,Tarapoto,Peru,PE,San Martín,-6.47597,-76.37039,382,2017-01-01,CO,Sí,Convencional – tiempo real,San Martin,Tarapoto
+000297,Tingo De Ponaza,Peru,PE,San Martín,-6.93722,-76.25267,238,2017-01-01,CO,Sí,Convencional – tiempo real,Picota,Tingo De Ponasa
+106145,Tingo De Ponaza,Peru,PE,San Martín,-6.93722,-76.25267,238,2017-01-01,PE,Depende,Automática,Picota,Tingo De Ponasa
+47E2E456,Tocache,Peru,PE,San Martín,-8.18475,-76.50789,483,2021-04-01,EHMA,Sí,Automática,Tocache,Tocache
+117059,Ancoaque,Peru,PE,Tacna,-17.19972,-69.93917,4390,2021-05-01,EHA,No,Automática,Tarata,Susapaya
+117054,Aricota,Peru,PE,Tacna,-17.32913,-70.23731,2850,2021-03-01,CO,Sí,Convencional – tiempo diferido,Candarave,Quilahuani
+008331,Bocatoma,Peru,PE,Tacna,-17.5802,-69.62672,4260,2019-09-01,CO,Sí,Convencional – tiempo diferido,Tacna,Palca
+47E2B42A,Bocatoma El Ayro,Peru,PE,Tacna,-17.58019,-69.62673,4260,2021-06-01,EMA,Sí,Automática,Tacna,Palca
+158313,Cairani,Peru,PE,Tacna,-17.28121,-70.36269,3386,2021-04-01,CO,Sí,Convencional – tiempo diferido,Candarave,Cairani
+000807,Calana,Peru,PE,Tacna,-17.97458,-70.1932,785,2017-01-01,CP,Sí,Convencional – tiempo real,Tacna,Calana
+000862,Calientes,Peru,PE,Tacna,-17.884,-70.1425,1200,2017-06-01,CO,Sí,Convencional – tiempo real,Tacna,Pachia
+215000,Canal Uchusuma,Peru,PE,Tacna,-17.5807,-69.6264,4260,2021-03-01,HLG,No,Convencional – tiempo diferido,Tacna,Palca
+000876,Candarave,Peru,PE,Tacna,-17.26776,-70.25537,3415,2017-01-01,CO,Sí,Convencional – tiempo real,Candarave,Candarave
+47E2C2BA,Candarave,Peru,PE,Tacna,-17.268,-70.25409,3410,2021-06-01,EMA,Sí,Automática,Candarave,Candarave
+47E143A0,Caplina,Peru,PE,Tacna,-17.6921,-69.92511,3480,2021-06-01,EHA,No,Automática,Tacna,Pachia
+47E13530,Cerro Blanco,Peru,PE,Tacna,-17.96873,-70.15231,890,2021-06-01,EHA,No,Automática,Tacna,Calana
+47E195C8,Challata,Peru,PE,Tacna,-17.81542,-70.09896,1540,2021-06-01,EHA,No,Automática,Tacna,Pachia
+000860,Chuapalca,Peru,PE,Tacna,-17.3088,-69.6618,4250,2021-03-01,CO,Sí,Convencional – tiempo diferido,Tarata,Tarata
+47E292C6,Chuapalca,Peru,PE,Tacna,-17.30882,-69.66179,4250,2021-06-01,EMA,Sí,Automática,Tarata,Tarata
+270900,Chuapalca,Peru,PE,Tacna,-17.2981,-69.6468,4180,2016-03-01,HLM,No,Convencional – tiempo diferido,Tarata,Tarata
+47E1654C,Corachay Ii,Peru,PE,Tacna,-17.11435,-70.28838,4110,2021-06-01,EHA,No,Automática,Candarave,Cairani
+214901,Coruca,Peru,PE,Tacna,-17.63312,-70.45456,852,2017-07-01,HLG,No,Convencional – tiempo real,Tacna,Inclan
+000863,Ilabaya,Peru,PE,Tacna,-17.41783,-70.51281,1425,2017-06-01,CO,Sí,Convencional – tiempo real,Jorge Basadre,Ilabaya
+000858,Ite,Peru,PE,Tacna,-17.86008,-70.95169,160,2017-01-01,CO,Sí,Convencional – tiempo real,Jorge Basadre,Ite
+000901,Jorge Basadre,Peru,PE,Tacna,-18.02689,-70.25153,560,2017-01-01,MAP,Sí,Convencional – tiempo real,Tacna,Tacna
+158332,La Frontera,Peru,PE,Tacna,-17.3824,-69.4864,4067,2019-01-01,CO,Sí,Convencional – tiempo diferido,Tarata,Tarata
+000899,La Yarada,Peru,PE,Tacna,-18.2107,-70.5259,30,2017-01-01,CP,Sí,Convencional – tiempo real,Tacna,La Yarada - Los Palos
+47E12646,Laguna Aricota,Peru,PE,Tacna,-17.37093,-70.30847,2770,2021-06-01,EHA,No,Automática,Candarave,Curibaya
+205010,Locumba,Peru,PE,Tacna,-17.6179,-70.761,570,2019-11-01,HLM,No,Convencional – tiempo real,Jorge Basadre,Locumba
+158321,Palca,Peru,PE,Tacna,-17.77795,-69.95864,3023,2017-01-01,CO,Sí,Convencional – tiempo real,Tacna,Palca
+158328,Paucarani,Peru,PE,Tacna,-17.53291,-69.78039,4625,2021-03-01,CO,Sí,Convencional – tiempo diferido,Tacna,Palca
+47E150D6,Puente Talapalca,Peru,PE,Tacna,-17.47487,-70.17265,2164,2021-04-01,EHA,No,Automática,Tarata,Chucatamani
+47E186BE,Puente Viejo,Peru,PE,Tacna,-17.61756,-70.76097,569,2021-05-01,EHA,No,Automática,Jorge Basadre,Locumba
+47E1B324,Represa Jarumas,Peru,PE,Tacna,-17.3692,-69.94863,4516,2021-06-01,EHA,No,Automática,Tarata,Ticaco
+47E113DC,Represa Paucarani,Peru,PE,Tacna,-17.53436,-69.76499,4550,2021-03-01,EHA,No,Automática,Tacna,Palca
+47E1763A,Salida Tunel Kovire,Peru,PE,Tacna,-17.23804,-70.00854,4360,2021-06-01,EHA,No,Automática,Tarata,Susapaya
+000875,Sama Grande,Peru,PE,Tacna,-17.78758,-70.48962,529,2017-01-01,CO,Sí,Convencional – tiempo real,Tacna,Inclan
+158317,Susapaya,Peru,PE,Tacna,-17.34771,-70.13472,3468,2018-06-01,CO,Sí,Convencional – tiempo real,Tarata,Susapaya
+158323,Talabaya,Peru,PE,Tacna,-17.5526,-69.9868,3409,2021-03-01,CO,Sí,Convencional – tiempo diferido,Tarata,Estique
+000877,Tarata,Peru,PE,Tacna,-17.47935,-70.03663,3100,2017-01-01,CO,Sí,Convencional – tiempo real,Tarata,Tarata
+47E2D1CC,Tarata,Peru,PE,Tacna,-17.47937,-70.03665,3100,2021-06-01,EMA,Sí,Automática,Tarata,Tarata
+214800,Ticapampa,Peru,PE,Tacna,-17.47659,-70.54263,1093,2021-02-01,EHA,No,Automática,Jorge Basadre,Ilabaya
+000861,Vilacota,Peru,PE,Tacna,-17.07906,-70.04302,4390,2021-04-01,CO,Sí,Convencional – tiempo diferido,Tarata,Susapaya
+47E2A75C,Vilacota,Peru,PE,Tacna,-17.07909,-70.04302,4390,2021-06-01,EMA,Sí,Automática,Tarata,Susapaya
+211705,Vilacota,Peru,PE,Tacna,-17.0786,-70.0424,4400,2021-04-01,HLM,No,Convencional – tiempo diferido,Tarata,Susapaya
+000139,Cabo Inga,Peru,PE,Tumbes,-3.97594,-80.40182,231,2021-05-01,CO,Sí,Convencional – tiempo diferido,Tumbes,San Jacinto
+200203,Cabo Inga,Peru,PE,Tumbes,-3.9786,-80.39925,160,2021-06-01,HLM,No,Convencional – tiempo diferido,Tumbes,San Jacinto
+47E01126,Cabo Inga H,Peru,PE,Tumbes,-3.97873,-80.39938,160,2021-06-01,EHA,No,Automática,Tumbes,San Jacinto
+472F00A6,Cabo Inga M,Peru,PE,Tumbes,-3.97878,-80.39944,231,2021-06-01,EMA,Sí,Automática,Tumbes,San Jacinto
+472EF2D8,Campamento Sede,Peru,PE,Tumbes,-3.55115,-80.42962,17,2021-05-01,EMA,Sí,Automática,Tumbes,Tumbes
+000136,Cañaveral,Peru,PE,Tumbes,-3.9391,-80.65058,133,2017-01-01,CO,Sí,Convencional – tiempo real,Contralmirante Villar,Casitas
+472F13D0,Cañaveral,Peru,PE,Tumbes,-3.93905,-80.65055,133,2021-03-01,EMA,Sí,Automática,Contralmirante Villar,Casitas
+000135,El Salto,Peru,PE,Tumbes,-3.45171,-80.2802,4,2020-12-01,CO,Sí,Convencional – tiempo diferido,Zarumilla,Zarumilla
+4724A3F6,El Tigre,Peru,PE,Tumbes,-3.7687,-80.45689,37,2021-06-01,EHMA,Sí,Automática,Tumbes,San Jacinto
+200202,El Tigre,Peru,PE,Tumbes,-3.76848,-80.45685,44,2017-07-01,HLG,No,Convencional – tiempo real,Tumbes,San Jacinto
+472F43AC,Huasimo,Peru,PE,Tumbes,-3.99815,-80.50392,607,2021-06-01,EMA,Sí,Automática,Tumbes,San Jacinto
+000179,La Cruz,Peru,PE,Tumbes,-3.62829,-80.56927,6,2017-01-01,CP,Sí,Convencional – tiempo real,Tumbes,La Cruz
+472F353C,Matapalo,Peru,PE,Tumbes,-3.68276,-80.19851,62,2021-06-01,EMA,Sí,Automática,Zarumilla,Matapalo
+150112,Matapalo,Peru,PE,Tumbes,-3.68277,-80.19857,62,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Zarumilla,Matapalo
+000134,Papayal,Peru,PE,Tumbes,-3.56732,-80.23324,50,2017-01-01,CO,Sí,Convencional – tiempo real,Zarumilla,Papayal
+47E024BC,Puente Tumbes,Peru,PE,Tumbes,-3.5709,-80.4609,10,2021-02-01,EHA,No,Automática,Tumbes,Tumbes
+000132,Puerto Pizarro,Peru,PE,Tumbes,-3.50396,-80.39538,6,2018-02-01,CO,Sí,Convencional – tiempo real,Tumbes,Tumbes
+103068,Puerto Pizarro,Peru,PE,Tumbes,-3.50396,-80.39538,6,2025-10-01,EMA,Sí,Automática,Tumbes,Tumbes
+000130,Rica Playa,Peru,PE,Tumbes,-3.8119,-80.50546,68,2018-03-01,CO,Sí,Convencional – tiempo real,Tumbes,San Jacinto
+472F264A,Rica Playa,Peru,PE,Tumbes,-3.81333,-80.4575,113,2021-06-01,EMA,Sí,Automática,Tumbes,Pampas De Hospital
+000462,Aguaytia,Peru,PE,Ucayali,-9.04225,-75.50624,316,2017-01-01,CO,Sí,Convencional – tiempo real,Padre Abad,Padre Abad
+47E86310,Calleria,Peru,PE,Ucayali,-7.89825,-74.49886,165,2019-05-01,EMA,Sí,Automática,Coronel Portillo,Callaria
+000459,El Maronal,Peru,PE,Ucayali,-8.44999,-75.09681,178,2021-05-01,CP,Sí,Convencional – tiempo diferido,Padre Abad,Curimana
+240504,Lpo Pucallpa,Peru,PE,Ucayali,-8.38214,-74.52567,,2026-10-01,HLM,No,Convencional – tiempo diferido,,
+000449,Pucallpa,Peru,PE,Ucayali,-8.41323,-74.57185,162,2021-02-01,CP,Sí,Convencional – tiempo diferido,Coronel Portillo,Callaria
+231201,Puente Aguaytia,Peru,PE,Ucayali,-9.03738,-75.50449,278,2017-01-01,HLG,No,Convencional – tiempo real,Padre Abad,Padre Abad
+47E87066,Puerto Esperanza,Peru,PE,Ucayali,-9.77083,-70.70666,237,2021-04-01,EMA,Sí,Automática,Purus,Purus
+002412,San Alejandro,Peru,PE,Ucayali,-8.83444,-75.21639,216,2017-01-01,CO,Sí,Convencional – tiempo real,Padre Abad,Irazola
+250103,San Alejandro,Peru,PE,Ucayali,-8.83091,-75.21281,207,2017-01-01,HLM,No,Convencional – tiempo real,Padre Abad,Irazola
+47E8568A,Santa Ana,Peru,PE,Ucayali,-8.49763,-75.56274,235,2018-10-01,EMA,Sí,Automática,Padre Abad,Padre Abad
+000440,Aija,Peru,PE,Áncash,-9.78164,-77.60674,3486,2017-01-01,CO,Sí,Convencional – tiempo real,Aija,Aija
+000435,Buena Vista,Peru,PE,Áncash,-9.43371,-78.20825,213,2021-05-01,CO,Sí,Convencional – tiempo diferido,Casma,Buena Vista Alta
+109096,Buena Vista,Peru,PE,Áncash,-9.43372,-78.20828,206,2021-06-01,EMA,Sí,Automática,Casma,Buena Vista Alta
+004431,Cabana,Peru,PE,Áncash,-8.39058,-78.00461,3364,2017-01-01,CP,Sí,Convencional – tiempo real,Pallasca,Cabana
+202404,Cahua,Peru,PE,Áncash,-10.606,-77.34389,812,2017-05-01,HLG,No,Convencional – tiempo diferido,Ocros,Acas
+154108,Cajamarquilla,Peru,PE,Áncash,-9.63204,-77.74136,3286,2017-06-01,CO,Sí,Convencional – tiempo real,Huaraz,La Libertad
+154107,Chacchan,Peru,PE,Áncash,-9.53519,-77.77536,2266,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Huaraz,Pariacoto
+150900,Chamana,Peru,PE,Áncash,-10.20739,-77.55872,1228,2017-06-01,CO,Sí,Convencional – tiempo real,Recuay,Llacllin
+000445,Chavin,Peru,PE,Áncash,-9.58598,-77.17526,3140,2017-01-01,CO,Sí,Convencional – tiempo real,Huari,Chavin De Huantar
+4725A10C,Chavin,Peru,PE,Áncash,-9.58598,-77.17529,3140,2021-06-01,EAMA,Sí,Automática,Huari,Chavin De Huantar
+000538,Chiquian,Peru,PE,Áncash,-10.14763,-77.15949,3414,2017-01-01,CO,Sí,Convencional – tiempo real,Bolognesi,Chiquian
+000530,Huarmey,Peru,PE,Áncash,-10.06812,-78.16232,8,2017-01-01,CO,Sí,Convencional – tiempo real,Huarmey,Huarmey
+150901,Malvas,Peru,PE,Áncash,-9.92723,-77.65519,3009,2017-06-01,CO,Sí,Convencional – tiempo real,Huarmey,Malvas
+150903,Mayorarca,Peru,PE,Áncash,-10.15775,-77.34889,3335,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Bolognesi,Cajacay
+109095,Nuevo Pachacoto,Peru,PE,Áncash,-9.85242,-77.40607,3723,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Recuay,Catac
+155105,Ocros,Peru,PE,Áncash,-10.40457,-77.40025,3249,2021-05-01,PLU,Sí,Convencional – tiempo diferido,Ocros,Ocros
+47E89394,Pachacoto,Peru,PE,Áncash,-9.85243,-77.40607,3733,2021-06-01,EMA,Sí,Automática,Recuay,Catac
+150904,Pariacoto,Peru,PE,Áncash,-9.55239,-77.88761,1312,2017-06-01,CO,Sí,Convencional – tiempo real,Huaraz,Pariacoto
+154110,Pira,Peru,PE,Áncash,-9.58528,-77.70719,3720,2021-04-01,PLU,Sí,Convencional – tiempo diferido,Huaraz,Pira
+108103,Piscobamba Ii,Peru,PE,Áncash,-8.87045,-77.35072,3278,2018-03-01,CO,Sí,Convencional – tiempo real,Mariscal Luzuriaga,Piscobamba
+000443,Pomabamba,Peru,PE,Áncash,-8.8217,-77.45733,2985,2017-01-01,CO,Sí,Convencional – tiempo real,Pomabamba,Pomabamba
+472182DA,Puente Cahua,Peru,PE,Áncash,-10.60597,-77.34388,809,2021-06-01,EHA,No,Automática,Ocros,Acas
+47259496,Recuay,Peru,PE,Áncash,-9.72919,-77.45365,3431,2021-06-01,EMA,Sí,Automática,Recuay,Recuay
+211601,San Jacinto,Peru,PE,Áncash,-9.141,-78.2023,417,2020-01-01,EHA,No,Automática,Santa,Moro
+211404,San Pedro,Peru,PE,Áncash,-9.60776,-77.50963,3182,2018-08-01,HLM,No,Convencional – tiempo diferido,Huaraz,Huaraz
+109091,Saucepampa,Peru,PE,Áncash,-9.0309,-77.7763,2678,2021-06-01,EMA,Sí,Automática,Huaylas,Caraz
+110138,Shaquek,Peru,PE,Áncash,-10.07116,-77.52504,2979,2021-06-01,EMA,Sí,Automática,Recuay,Huayllapampa
+154111,Sihuas,Peru,PE,Áncash,-8.56667,-77.65,2716,2017-01-01,CO,Sí,Convencional – tiempo real,Sihuas,Sihuas
+000444,Yungay,Peru,PE,Áncash,-9.14189,-77.74998,2466,2017-01-01,CO,Sí,Convencional – tiempo real,Yungay,Yungay
