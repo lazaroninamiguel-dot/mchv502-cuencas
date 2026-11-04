@@ -1,0 +1,12 @@
+variable,valor
+area_km2,190.37
+cn_medio_actual,87.5
+cn_medio_gcn250,87.9
+p_evento_mm,24.8
+q_evento_mm,7.0
+coef_escorrentia_pct,28.3
+volumen_evento_m3,1336661
+escenario,pastizal con pendiente > 8° pasa a suelo desnudo
+area_escenario_km2,18.95
+aumento_volumen_escenario_pct,10.8
+lluvia_anual_t04_mm,499.5
