@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "estaciones_MDD_2021",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "estacion": "Puerto Maldonado", "lat": -12.587, "lon": -69.209, "zona": "Afectada" }, "geometry": { "type": "Point", "coordinates": [ -69.209, -12.587 ] } },
+{ "type": "Feature", "properties": { "estacion": "Laberinto", "lat": -12.718, "lon": -69.592, "zona": "Afectada" }, "geometry": { "type": "Point", "coordinates": [ -69.592, -12.718 ] } },
+{ "type": "Feature", "properties": { "estacion": "Malinowsky", "lat": -12.934, "lon": -69.518, "zona": "Afectada" }, "geometry": { "type": "Point", "coordinates": [ -69.518, -12.934 ] } },
+{ "type": "Feature", "properties": { "estacion": "Alto libertad km 98", "lat": -12.898, "lon": -69.945, "zona": "Afectada" }, "geometry": { "type": "Point", "coordinates": [ -69.945, -12.898 ] } },
+{ "type": "Feature", "properties": { "estacion": "Mazuko", "lat": -13.095, "lon": -70.38, "zona": "Afectada" }, "geometry": { "type": "Point", "coordinates": [ -70.38, -13.095 ] } },
+{ "type": "Feature", "properties": { "estacion": "Huepetuhe", "lat": -12.995, "lon": -70.535, "zona": "Afectada" }, "geometry": { "type": "Point", "coordinates": [ -70.535, -12.995 ] } },
+{ "type": "Feature", "properties": { "estacion": "Boca Colorado", "lat": -12.485, "lon": -70.515, "zona": "Afectada" }, "geometry": { "type": "Point", "coordinates": [ -70.515, -12.485 ] } },
+{ "type": "Feature", "properties": { "estacion": "Iberia", "lat": -11.41, "lon": -69.49, "zona": "Afectada" }, "geometry": { "type": "Point", "coordinates": [ -69.49, -11.41 ] } },
+{ "type": "Feature", "properties": { "estacion": "Iñapari", "lat": -10.956, "lon": -69.578, "zona": "Afectada" }, "geometry": { "type": "Point", "coordinates": [ -69.578, -10.956 ] } },
+{ "type": "Feature", "properties": { "estacion": "Quincemil", "lat": -13.229, "lon": -70.754, "zona": "Entrada" }, "geometry": { "type": "Point", "coordinates": [ -70.754, -13.229 ] } },
+{ "type": "Feature", "properties": { "estacion": "San Gabán", "lat": -13.461, "lon": -70.41, "zona": "Entrada" }, "geometry": { "type": "Point", "coordinates": [ -70.41, -13.461 ] } },
+{ "type": "Feature", "properties": { "estacion": "Tambopata (S.J. Oro)", "lat": -14.225, "lon": -69.162, "zona": "Entrada" }, "geometry": { "type": "Point", "coordinates": [ -69.162, -14.225 ] } },
+{ "type": "Feature", "properties": { "estacion": "Salvación", "lat": -12.831, "lon": -71.364, "zona": "Control" }, "geometry": { "type": "Point", "coordinates": [ -71.364, -12.831 ] } },
+{ "type": "Feature", "properties": { "estacion": "Granja Kayra (Cusco)", "lat": -13.557, "lon": -71.875, "zona": "Control" }, "geometry": { "type": "Point", "coordinates": [ -71.875, -13.557 ] } },
+{ "type": "Feature", "properties": { "estacion": "Sicuani", "lat": -14.237, "lon": -71.237, "zona": "Control" }, "geometry": { "type": "Point", "coordinates": [ -71.237, -14.237 ] } },
+{ "type": "Feature", "properties": { "estacion": "Juliaca", "lat": -15.444, "lon": -70.208, "zona": "Control" }, "geometry": { "type": "Point", "coordinates": [ -70.208, -15.444 ] } }
+]
+}
