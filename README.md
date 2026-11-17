@@ -20,6 +20,12 @@ mchv502-cuencas/
     ├── notebook/            Cuadernos de Colab (.ipynb)
     ├── insumos/             Estaciones con lluvia y ráster CHIRPS recortado
     └── resultados/          Superficies interpoladas, validación cruzada y lluvia media
+...
+└── S10/
+    ├── S10.1_lluvia_ERA5_CHIRPS/
+    │   ├── notebook/        Cuaderno de Colab (.ipynb)
+    │   └── resultados/      Series diarias ERA5 y CHIRPS, umbrales y puntos de la cuenca
+    └── S10.2_evento_extremo/
 ```
 
 Cada tarea guarda por separado lo que **entra** (insumos) y lo que **sale** (resultados). Los resultados de una tarea pueden ser insumos de la siguiente: la cuenca y la red de la T03 se usan en la T04.
@@ -30,6 +36,8 @@ Cada tarea guarda por separado lo que **entra** (insumos) y lo que **sale** (res
 |---|---|---|
 | T03 | Delimitación de cuencas | Límite de la cuenca y red de drenaje de Imata y Llallahui-Tacune |
 | T04 | Interpolación de lluvia | Vecino más cercano e IDW, validación cruzada dejando una estación afuera, lluvia media sobre la cuenca |
+| S10.1 | Lluvia ERA5 vs CHIRPS (GEE) | Series diarias, umbrales P90/P95/P99, lluvia anual, sesgo y correlación |
+| S10.2 | Evento extremo de lluvia | En curso |
 
 ## Datos
 

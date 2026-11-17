@@ -1,6 +1,6 @@
 # S10.1 · Lluvia ERA5 vs CHIRPS · Subcuenca Sumbay
 
-Resultados del cuaderno [`S10.1_lluvia_ERA5_CHIRPS.ipynb`](../../S10.1_lluvia_ERA5_CHIRPS.ipynb) (punto de referencia: lat −15,8891, lon −70,9896; periodo desde 2015-01-01).
+Resultados del cuaderno [`S10.1_lluvia_ERA5_CHIRPS.ipynb`](../notebook/S10.1_lluvia_ERA5_CHIRPS.ipynb) (punto de referencia: lat −15,8891, lon −70,9896; periodo desde 2015-01-01).
 
 | Archivo | Contenido |
 |---|---|
