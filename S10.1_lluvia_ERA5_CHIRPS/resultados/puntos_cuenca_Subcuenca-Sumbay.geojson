@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "puntos_cuenca_Subcuenca-Sumbay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -16.0227, "lon": -70.9294 }, "geometry": { "type": "Point", "coordinates": [ -70.929372679186059, -16.022708864142782 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -16.0227, "lon": -70.8994 }, "geometry": { "type": "Point", "coordinates": [ -70.899372679186058, -16.022708864142782 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -16.0227, "lon": -70.8694 }, "geometry": { "type": "Point", "coordinates": [ -70.869372679186057, -16.022708864142782 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9927, "lon": -70.9594 }, "geometry": { "type": "Point", "coordinates": [ -70.95937267918606, -15.992708864142783 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9927, "lon": -70.9294 }, "geometry": { "type": "Point", "coordinates": [ -70.929372679186059, -15.992708864142783 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9927, "lon": -70.8994 }, "geometry": { "type": "Point", "coordinates": [ -70.899372679186058, -15.992708864142783 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9627, "lon": -70.9894 }, "geometry": { "type": "Point", "coordinates": [ -70.989372679186062, -15.962708864142783 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9627, "lon": -70.9594 }, "geometry": { "type": "Point", "coordinates": [ -70.95937267918606, -15.962708864142783 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9627, "lon": -70.9294 }, "geometry": { "type": "Point", "coordinates": [ -70.929372679186059, -15.962708864142783 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9627, "lon": -70.8994 }, "geometry": { "type": "Point", "coordinates": [ -70.899372679186058, -15.962708864142783 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9627, "lon": -70.8694 }, "geometry": { "type": "Point", "coordinates": [ -70.869372679186057, -15.962708864142783 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9327, "lon": -70.9894 }, "geometry": { "type": "Point", "coordinates": [ -70.989372679186062, -15.932708864142784 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9327, "lon": -70.9594 }, "geometry": { "type": "Point", "coordinates": [ -70.95937267918606, -15.932708864142784 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9327, "lon": -70.9294 }, "geometry": { "type": "Point", "coordinates": [ -70.929372679186059, -15.932708864142784 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9327, "lon": -70.8994 }, "geometry": { "type": "Point", "coordinates": [ -70.899372679186058, -15.932708864142784 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9327, "lon": -70.8694 }, "geometry": { "type": "Point", "coordinates": [ -70.869372679186057, -15.932708864142784 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9027, "lon": -70.9894 }, "geometry": { "type": "Point", "coordinates": [ -70.989372679186062, -15.902708864142785 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9027, "lon": -70.9594 }, "geometry": { "type": "Point", "coordinates": [ -70.95937267918606, -15.902708864142785 ] } },
+{ "type": "Feature", "properties": { "index_right": 0, "lat": -15.9027, "lon": -70.8694 }, "geometry": { "type": "Point", "coordinates": [ -70.869372679186057, -15.902708864142785 ] } }
+]
+}

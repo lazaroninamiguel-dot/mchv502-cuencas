@@ -1,0 +1,4 @@
+categoria,percentil,ERA5_mm,CHIRPS_mm
+Fuerte,P90,12.2,9.6
+Severa,P95,14.8,12.5
+Extrema,P99,19.6,17.6
